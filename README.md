@@ -2496,7 +2496,7 @@ Therefore, this part of portfolio is not customizable. But don't worry we have a
 <li>
 <div class="highlight highlight-source-js position-relative overflow-auto" data-snippet-clipboard-copy-content="// Website related settings
 const settings = {
-  isSplash: true,
+  isSplash: false,
 };"><pre><span class="pl-c">// Website related settings</span>
 <span class="pl-k">const</span> <span class="pl-s1">settings</span> <span class="pl-c1">=</span> <span class="pl-kos">{</span>
   <span class="pl-c1">isSplash</span>: <span class="pl-c1">true</span><span class="pl-kos">,</span>
