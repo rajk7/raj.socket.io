@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Raj Kumar Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "https://rajk7.github.io/",
   },
 };
 
@@ -25,36 +25,27 @@ const greeting = {
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
-    "https://drive.google.com/open?id=1XYpYhLeqCdyx_q6l0bQoC7RgwQjAjXPf",
-  portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
+    "https://drive.google.com/file/d/1CnKhQajQYzYwO_14N4TxJCzt_gsRwM0k/view?usp=sharing",
+  portfolio_repository: "https://github.com/rajk7/raj.socket.io",
   githubProfile: "https://github.com/rajk7",
 };
 
 const socialMediaLinks = [
-  /* Your Social Media Link */
-  // github: "https://github.com/ashutosh1919",
-  // linkedin: "https://www.linkedin.com/in/ashutosh-hathidara-88710b138/",
-  // gmail: "ashutoshhathidara98@gmail.com",
-  // gitlab: "https://gitlab.com/ashutoshhathidara98",
-  // facebook: "https://www.facebook.com/laymanbrother.19/",
-  // twitter: "https://twitter.com/ashutosh_1919",
-  // instagram: "https://www.instagram.com/layman_brother/"
-
   {
     name: "Github",
-    link: "https://github.com/ashutosh1919",
+    link: "https://github.com/rajk7",
     fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
     backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
   },
   {
     name: "LinkedIn",
-    link: "https://www.linkedin.com/in/ashutosh-hathidara-88710b138/",
+    link: "https://www.linkedin.com/in/rajkr01",
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
   {
     name: "Gmail",
-    link: "mailto:ashutoshhathidara98@gmail.com",
+    link: "mailto:mahatoraj8@gmail.com",
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
@@ -329,7 +320,7 @@ const competitiveSites = {
       style: {
         color: "#2EC866",
       },
-      profileLink: "https://www.hackerrank.com/layman_brother",
+      profileLink: "https://www.hackerrank.com/rajkr01",
     },
     {
       siteName: "Codechef",
@@ -337,7 +328,7 @@ const competitiveSites = {
       style: {
         color: "#5B4638",
       },
-      profileLink: "https://www.codechef.com/users/ashutosh_1919",
+      profileLink: "https://www.codechef.com/users/rajkr01",
     },
     {
       siteName: "Codeforces",
@@ -345,7 +336,7 @@ const competitiveSites = {
       style: {
         color: "#1F8ACB",
       },
-      profileLink: "http://codeforces.com/profile/layman_brother",
+      profileLink: "http://codeforces.com/profile/rajkr01",
     },
     {
       siteName: "Hackerearth",
@@ -353,7 +344,7 @@ const competitiveSites = {
       style: {
         color: "#323754",
       },
-      profileLink: "https://www.hackerearth.com/@ashutosh391",
+      profileLink: "https://www.hackerearth.com/@mahatoraj8",
     },
     {
       siteName: "Kaggle",
@@ -361,7 +352,7 @@ const competitiveSites = {
       style: {
         color: "#20BEFF",
       },
-      profileLink: "https://www.kaggle.com/laymanbrother",
+      profileLink: "https://www.kaggle.com/rajkr01",
     },
   ],
 };
@@ -379,7 +370,7 @@ const degrees = {
         "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
         "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
       ],
-      website_link: "http://iiitk.ac.in",
+      website_link: "https://christuniversity.in/",
     },
   ],
 };
@@ -547,17 +538,17 @@ const experience = {
       title: "Internships",
       experiences: [
         {
-          title: "Data Science Research Intern",
-          company: "Delhivery Pvt. Ltd.",
-          company_url: "https://www.delhivery.com/",
-          logo_path: "delhivery_logo.png",
-          duration: "May 2019 - Sept 2019",
-          location: "Gurgaon, Haryana",
+          title: "Flutter App Development Intern",
+          company: "Titan Company",
+          company_url: "https://www.titancompany.in/",
+          logo_path: "titan co.png",
+          duration: "March 2019 - April 2019",
+          location: "Hosur, Tamil Nadu",
           description:
-            "I have worked on project of predicting freight rates based on previous data. There were two objectives: (1) To build a forecasting engine to predict daily freight rates. (2) To embed feature in the model which can explain the seasonal major changes in freight rate based on regions and locations. I have closely worked with deep learning models in combination with statistical methods to create solution for this. At the end of internship, I had created model deployed on AWS EC2 with the use of Kafka stream jobs, ElasticSearch and PostgreSQL.",
+            "Near Field Communication android application development as an industry project for TITAN company. NFC app is developed which can transfer and retrieve information in order to perform various tasks  such as make payments storing information, passwords.",
           color: "#ee3c26",
         },
-        {
+        /*{
           title: "Data Science Intern",
           company: "Intel Indexer LLC",
           company_url:
@@ -568,10 +559,10 @@ const experience = {
           description:
             "This is financial Solution Company. I have made Supervised Learning model for the company which can perform time series analysis on Stock price data for 32 companies. I have built LSTM Neural Networks Model and trained the data of 32 companies for last 2 years. This model is also used for forecasting.",
           color: "#0071C5",
-        },
+        },*/
       ],
     },
-    {
+    /*{
       title: "Volunteerships",
       experiences: [
         {
@@ -631,7 +622,7 @@ const experience = {
           color: "#181717",
         },
       ],
-    },
+    },*/
   ],
 };
 
@@ -654,7 +645,7 @@ const publicationsHeader = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_ashutosh.png",
+    profile_image_path: "Raj portpholio.png",
     description:
       "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
   },
@@ -668,13 +659,13 @@ const contactPageData = {
   addressSection: {
     title: "Address",
     subtitle:
-      "Ambavadi vas, Kanodar, T.A.-Palanpur, Dist.-Banaskantha, Gujarat - 385520",
+      "Thirumala PG for gents, No 164, 6th cross, Bannerghatta Main Rd, Omkar Nagar, Arekere, Bengaluru, Karnataka 560076",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://goo.gl/maps/MpMqtRZytFchMkZ76",
+    location_map_link: "https://g.page/thirumala-pg-for-gents?share",
   },
   phoneSection: {
     title: "Phone Number",
-    subtitle: "+91 8320758513",
+    subtitle: "+91 7992314911",
   },
 };
 

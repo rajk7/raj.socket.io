@@ -6,24 +6,24 @@
       "closed": false,
       "title": "Setting Up Workflow for the project",
       "createdAt": "2020-04-23T12:06:14Z",
-      "url": "https://github.com/ashutosh1919/masterPortfolio/issues/2",
+      "url": "https://github.com/rajk7/masterPortfolio/issues/2",
       "number": 2,
       "assignees": {
         "nodes": [
           {
             "avatarUrl": "https://avatars1.githubusercontent.com/u/20843596?u=7f184b911f73ae1dc5765ab686fff2b2e984830f&v=4",
             "name": "Raj Kumar",
-            "url": "https://github.com/ashutosh1919"
+            "url": "https://github.com/rajk7"
           }
         ]
       },
       "repository": {
         "name": "masterPortfolio",
-        "url": "https://github.com/ashutosh1919/masterPortfolio",
+        "url": "https://github.com/rajk7/masterPortfolio",
         "owner": {
-          "login": "ashutosh1919",
+          "login": "rajk7",
           "avatarUrl": "https://avatars1.githubusercontent.com/u/20843596?u=7f184b911f73ae1dc5765ab686fff2b2e984830f&v=4",
-          "url": "https://github.com/ashutosh1919"
+          "url": "https://github.com/rajk7"
         }
       }
     },
@@ -170,18 +170,18 @@
       "closed": false,
       "title": "Add Animations to Pinned Projects ",
       "createdAt": "2020-04-01T06:24:47Z",
-      "url": "https://github.com/ashutosh1919/masterPortfolio/issues/1",
+      "url": "https://github.com/rajk7/masterPortfolio/issues/1",
       "number": 1,
       "assignees": {
         "nodes": []
       },
       "repository": {
         "name": "masterPortfolio",
-        "url": "https://github.com/ashutosh1919/masterPortfolio",
+        "url": "https://github.com/rajk7/masterPortfolio",
         "owner": {
-          "login": "ashutosh1919",
+          "login": "rajk7",
           "avatarUrl": "https://avatars1.githubusercontent.com/u/20843596?u=7f184b911f73ae1dc5765ab686fff2b2e984830f&v=4",
-          "url": "https://github.com/ashutosh1919"
+          "url": "https://github.com/rajk7"
         }
       }
     },
