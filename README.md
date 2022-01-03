@@ -1,8 +1,4 @@
-
-
-
-
-
+// raj
 
 <!DOCTYPE html>
 <html lang="en" data-color-mode="auto" data-light-theme="light" data-dark-theme="dark">
@@ -15,8 +11,6 @@
   <link rel="preconnect" href="https://github.githubassets.com" crossorigin>
   <link rel="preconnect" href="https://avatars.githubusercontent.com">
 
-
-
   <link crossorigin="anonymous" media="all" integrity="sha512-E9wnWjoxQmh5A1jiWVYDPKOvA8VPf0iKQYoc+9ycMJvtAi9gOSlaUci+W2smxFIlWkV8hkX+O27S8NIB59iIDw==" rel="stylesheet" href="https://github.githubassets.com/assets/light-13dc275a3a314268790358e25956033c.css" /><link crossorigin="anonymous" media="all" integrity="sha512-nYSv3KrFhMlGUpjkFQBLMEN6HvHhijcoubQLjV3DWlcABEi2yDYf6KGUjRubJ5R+dJnKXR7jA4wu5Dg200SApA==" rel="stylesheet" href="https://github.githubassets.com/assets/dark-9d84afdcaac584c9465298e415004b30.css" /><link data-color-theme="dark_dimmed" crossorigin="anonymous" media="all" integrity="sha512-73MN8RaWLT6hOrTrxNJOEI8Pb0ArN01fXatO0tqm/qXy73XBb0FG3f8jd0NfztcQGoLTDF6Pl6AxpbnDvgwAiA==" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_dimmed-ef730df116962d3ea13ab4ebc4d24e10.css" /><link data-color-theme="dark_high_contrast" crossorigin="anonymous" media="all" integrity="sha512-bOhGZNmild3wSbSBnXK4FdlotedKfGpLBrn2ws0dSVZZaZmQcYoGvkvl1M6L82kHTBkHjonl5pIpbQ9Q066xCw==" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_high_contrast-6ce84664d9a295ddf049b4819d72b815.css" /><link data-color-theme="dark_colorblind" crossorigin="anonymous" media="all" integrity="sha512-AwOAfDuSE0kUy1kcP+UA/Gj0G3V2UahdhGF/3XKhrgH+rX5j33z3/p8INmxmpC1TF1XDDPjwJAmvCECOdgDCNw==" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_colorblind-0303807c3b92134914cb591c3fe500fc.css" /><link data-color-theme="light_colorblind" crossorigin="anonymous" media="all" integrity="sha512-MTr0RUpwD911150L11H/RfSf+jCC9M4JQt6f3rFBXTMZZop9I/2FqEUXDYYBLnTqXTel4Ost6mblHDW5IK7Q5Q==" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_colorblind-313af4454a700fdd75d79d0bd751ff45.css" /><link data-color-theme="light_high_contrast" crossorigin="anonymous" media="all" integrity="sha512-YtCQQI4gi5fOKm9+JR5jGw5IqvUk4NlWG6r0YRx3SGXtNYMNuVXlTT3X1HZczk1u9vhCYsMevrnz5FfY2lZyWg==" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_high_contrast-62d090408e208b97ce2a6f7e251e631b.css" />
   <link crossorigin="anonymous" media="all" integrity="sha512-zw7LEKJYRly65tkoCHN9EKkBSW87oNvS/W1iwFRH5uw6orvEHdej1Pom9Hx20gdv+RhaXzHW/3h0QjuAlkhynQ==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-cf0ecb10a258465cbae6d92808737d10.css" />
   <link crossorigin="anonymous" media="all" integrity="sha512-3UPEO6tpXvbFw23ugE4YF8phTQsG9oq8uDCXLoSq+OurPsH67A8KDMQjHdrbq7C+afONNyrU+Pl71+ATEOlqUQ==" rel="stylesheet" href="https://github.githubassets.com/assets/behaviors-dd43c43bab695ef6c5c36dee804e1817.css" />
@@ -27,11 +21,12 @@
   <link crossorigin="anonymous" media="all" integrity="sha512-ZDCoa3tPoCSCkjoc2jvnpZcDgMVmty5RSsIUN3C/8VP4dXUQD7GDWY54Jzk0ne3p1Tl/8joE0rzQIWY3r26bvQ==" rel="stylesheet" href="https://github.githubassets.com/assets/github-6430a86b7b4fa02482923a1cda3be7a5.css" />
 
   <script crossorigin="anonymous" defer="defer" integrity="sha512-K/kjAAGVhlckApEbskyYOB+ASq3m0GKyJk3y0JoEafwknEbUpmilodEuQQJG09c0v1eCRlX7mSQp+GLGtXmWQg==" type="application/javascript" src="https://github.githubassets.com/assets/environment-2bf92300.js"></script>
+
     <script crossorigin="anonymous" defer="defer" integrity="sha512-1QzqMFpBSwRfpLwNjvy7HzWppDH5803c5jyN6K064fvAC/TiKaQF+MiwGcGeEhujqfLnL3lX15BKt2RqSzwlSg==" type="application/javascript" src="https://github.githubassets.com/assets/chunk-frameworks-d50cea30.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-VCprQIl55Uv72iPpYaNMju6N2rRE1xqFzT84jOqw0wBSN37ACO/9V0zgV6w6GwbQkAU/XF+n82OWwtjEQ5fV6Q==" type="application/javascript" src="https://github.githubassets.com/assets/chunk-vendor-542a6b40.js"></script>
-  
+
   <script crossorigin="anonymous" defer="defer" integrity="sha512-Cob7ptaSJgnqGhNsK0iTvxZ88ZZNj1c7DNulCfmD6PoQSQ+pbDHzCn4v2ts7xmLCdi2ogqom36nXZDgyNSiPZQ==" type="application/javascript" src="https://github.githubassets.com/assets/behaviors-0a86fba6.js"></script>
-  
+
     <script crossorigin="anonymous" defer="defer" integrity="sha512-ODZJzCJpaOfusrIka5QVZQcPiO9LBGyrrMYjhhJWSLuCN5WbZ5xiEiiOPOKVu71dqygyRdB2TY7AKPA1J5hqdg==" type="application/javascript" data-module-id="./chunk-unveil.js" data-src="https://github.githubassets.com/assets/chunk-unveil-383649cc.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-emPgUbSwW9ezLCgRnTE7n4fbbfc/MqEEDHmnkmG61dTyjWKHTYKN4wN3OPS7SY0fwmSJ8mB5+gng2nZw4/HsUg==" type="application/javascript" data-module-id="./chunk-animate-on-scroll.js" data-src="https://github.githubassets.com/assets/chunk-animate-on-scroll-7a63e051.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-ocfEAp6AJvGh4otXKow+AVJ14ysircwHagMkRQ3hoQvuy/U9agyT1cYKYiSYph1VLNaI/aAXwVd2go1pb3DD8A==" type="application/javascript" data-module-id="./chunk-input-demux.js" data-src="https://github.githubassets.com/assets/chunk-input-demux-a1c7c402.js"></script>
@@ -98,7 +93,7 @@
     <script crossorigin="anonymous" defer="defer" integrity="sha512-6JUQHgkTqBaCCdDugMcO4fQ8YxUHk+m6rwVp2Wxa4FMVz6BbBMPOzGluT4wBq8NTUcFv6DnXSOnt5e85jNgpGg==" type="application/javascript" data-module-id="./chunk-drag-drop.js" data-src="https://github.githubassets.com/assets/chunk-drag-drop-e895101e.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-28pipPJZvizfcYYETJWBBeDHsrDEz7A06d7Y5swgY/OWmsX0ZJW6mkZVFRO7Z/xZh1D1qFbPHGNixfCd1YpBnA==" type="application/javascript" data-module-id="./chunk-contributions-spider-graph.js" data-src="https://github.githubassets.com/assets/chunk-contributions-spider-graph-dbca62a4.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-VQRofBwNZhBa4vBuw0P5bjjlVtO2R+l1M0TOfMZHX1bB7xy//CFwqmyaL24rLfgLx8sahKZ7eEw1o+nkFoUzNA==" type="application/javascript" data-module-id="./chunk-webgl-warp.js" data-src="https://github.githubassets.com/assets/chunk-webgl-warp-5504687c.js"></script>
-  
+
   <script crossorigin="anonymous" defer="defer" integrity="sha512-qb0VNYEOQchz8PqWuYrIqNtb9eGvMmT2WN43rHOug+XWYaUbOkE+mpDBDFWKS7kXjDWK/Glk35qm34JHOEnAQw==" type="application/javascript" src="https://github.githubassets.com/assets/repositories-a9bd1535.js"></script>
 <script crossorigin="anonymous" defer="defer" integrity="sha512-ICUv50Qz2AAC2/u3xVLvTYSyGd1drvd4+eUWMEc+vx4TXYjgLos3MAqKzYVXrcbPr0cyknutSEbBG519piaiGQ==" type="application/javascript" src="https://github.githubassets.com/assets/diffs-20252fe7.js"></script>
 
@@ -112,11 +107,7 @@
   <meta name="apple-itunes-app" content="app-id=1477376905" />
     <meta name="twitter:image:src" content="https://repository-images.githubusercontent.com/245467274/35033400-c433-11ea-9585-7391e3f3dc74" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="masterPortfolio/README.md at master · ashutosh1919/masterPortfolio" /><meta name="twitter:description" content="🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer. - masterPortfolio/README.md a..." />
     <meta property="og:image" content="https://repository-images.githubusercontent.com/245467274/35033400-c433-11ea-9585-7391e3f3dc74" /><meta property="og:image:alt" content="🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer. - masterPortfolio/README.md a..." /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="masterPortfolio/README.md at master · ashutosh1919/masterPortfolio" /><meta property="og:url" content="https://github.com/ashutosh1919/masterPortfolio" /><meta property="og:description" content="🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer. - masterPortfolio/README.md a..." />
-    
 
-
-
-    
 
   <link rel="assets" href="https://github.githubassets.com/">
     <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/50164635/ws?session=eyJ2IjoiVjMiLCJ1Ijo1MDE2NDYzNSwicyI6ODA1NjYxNTY0LCJjIjozOTIzMjI0MzYyLCJ0IjoxNjQwOTQ5NjkwfQ==--a63b3c1cb68de556de871d85dc20e2ca5a5525c1e05cafd200283c428dab5011" data-refresh-url="/_alive" data-session-id="00935dc0250dfe7804e7319a929a8f12611c9b9a1ef4e088016e6c5b6daa55e2">
@@ -127,14 +118,12 @@
 
     <meta name="hovercard-subject-tag" content="repository:245467274" data-pjax-transient>
 
-
   <meta name="github-keyboard-shortcuts" content="repository,source-code" data-pjax-transient="true" />
-
-  
 
   <meta name="selected-link" value="repo_source" data-pjax-transient>
 
     <meta name="google-site-verification" content="c1kuD-K2HIVF635lypcsWPoD4kilo5-jA_wBFyT4uMY">
+
   <meta name="google-site-verification" content="KT5gs8h0wvaagLKAVWq8bbeNwnZZK1r1XQysX3xurLU">
   <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
   <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
@@ -143,18 +132,10 @@
 
   <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
 
-  
-
-
-
   <meta name="optimizely-datafile" content="{&quot;version&quot;: &quot;4&quot;, &quot;rollouts&quot;: [], &quot;typedAudiences&quot;: [], &quot;anonymizeIP&quot;: true, &quot;projectId&quot;: &quot;16737760170&quot;, &quot;variables&quot;: [], &quot;featureFlags&quot;: [], &quot;experiments&quot;: [{&quot;status&quot;: &quot;Running&quot;, &quot;audienceIds&quot;: [], &quot;variations&quot;: [{&quot;variables&quot;: [], &quot;id&quot;: &quot;20438636352&quot;, &quot;key&quot;: &quot;control&quot;}, {&quot;variables&quot;: [], &quot;id&quot;: &quot;20484957397&quot;, &quot;key&quot;: &quot;treatment&quot;}], &quot;id&quot;: &quot;20479227424&quot;, &quot;key&quot;: &quot;growth_ghec_onboarding_experience&quot;, &quot;layerId&quot;: &quot;20467848595&quot;, &quot;trafficAllocation&quot;: [{&quot;entityId&quot;: &quot;20484957397&quot;, &quot;endOfRange&quot;: 1000}, {&quot;entityId&quot;: &quot;20484957397&quot;, &quot;endOfRange&quot;: 3000}, {&quot;entityId&quot;: &quot;20484957397&quot;, &quot;endOfRange&quot;: 5000}, {&quot;entityId&quot;: &quot;20484957397&quot;, &quot;endOfRange&quot;: 6000}, {&quot;entityId&quot;: &quot;20484957397&quot;, &quot;endOfRange&quot;: 8000}, {&quot;entityId&quot;: &quot;20484957397&quot;, &quot;endOfRange&quot;: 10000}], &quot;forcedVariations&quot;: {&quot;85e2238ce2b9074907d7a3d91d6feeae&quot;: &quot;control&quot;}}, {&quot;status&quot;: &quot;Running&quot;, &quot;audienceIds&quot;: [], &quot;variations&quot;: [{&quot;variables&quot;: [], &quot;id&quot;: &quot;20667381018&quot;, &quot;key&quot;: &quot;control&quot;}, {&quot;variables&quot;: [], &quot;id&quot;: &quot;20680930759&quot;, &quot;key&quot;: &quot;treatment&quot;}], &quot;id&quot;: &quot;20652570897&quot;, &quot;key&quot;: &quot;project_genesis&quot;, &quot;layerId&quot;: &quot;20672300363&quot;, &quot;trafficAllocation&quot;: [{&quot;entityId&quot;: &quot;20667381018&quot;, &quot;endOfRange&quot;: 5000}, {&quot;entityId&quot;: &quot;20680930759&quot;, &quot;endOfRange&quot;: 10000}], &quot;forcedVariations&quot;: {&quot;83356e17066d336d1803024138ecb683&quot;: &quot;treatment&quot;, &quot;18e31c8a9b2271332466133162a4aa0d&quot;: &quot;treatment&quot;, &quot;10f8ab3fbc5ebe989a36a05f79d48f32&quot;: &quot;treatment&quot;, &quot;1686089f6d540cd2deeaec60ee43ecf7&quot;: &quot;treatment&quot;}}], &quot;audiences&quot;: [{&quot;conditions&quot;: &quot;[\&quot;or\&quot;, {\&quot;match\&quot;: \&quot;exact\&quot;, \&quot;name\&quot;: \&quot;$opt_dummy_attribute\&quot;, \&quot;type\&quot;: \&quot;custom_attribute\&quot;, \&quot;value\&quot;: \&quot;$opt_dummy_value\&quot;}]&quot;, &quot;id&quot;: &quot;$opt_dummy_audience&quot;, &quot;name&quot;: &quot;Optimizely-Generated Audience for Backwards Compatibility&quot;}], &quot;groups&quot;: [], &quot;sdkKey&quot;: &quot;WTc6awnGuYDdG98CYRban&quot;, &quot;environmentKey&quot;: &quot;production&quot;, &quot;attributes&quot;: [{&quot;id&quot;: &quot;16822470375&quot;, &quot;key&quot;: &quot;user_id&quot;}, {&quot;id&quot;: &quot;17143601254&quot;, &quot;key&quot;: &quot;spammy&quot;}, {&quot;id&quot;: &quot;18175660309&quot;, &quot;key&quot;: &quot;organization_plan&quot;}, {&quot;id&quot;: &quot;18813001570&quot;, &quot;key&quot;: &quot;is_logged_in&quot;}, {&quot;id&quot;: &quot;19073851829&quot;, &quot;key&quot;: &quot;geo&quot;}, {&quot;id&quot;: &quot;20175462351&quot;, &quot;key&quot;: &quot;requestedCurrency&quot;}, {&quot;id&quot;: &quot;20785470195&quot;, &quot;key&quot;: &quot;country_code&quot;}], &quot;botFiltering&quot;: false, &quot;accountId&quot;: &quot;16737760170&quot;, &quot;events&quot;: [{&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;17911811441&quot;, &quot;key&quot;: &quot;hydro_click.dashboard.teacher_toolbox_cta&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18124116703&quot;, &quot;key&quot;: &quot;submit.organizations.complete_sign_up&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18145892387&quot;, &quot;key&quot;: &quot;no_metric.tracked_outside_of_optimizely&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18178755568&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.add_repo&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18180553241&quot;, &quot;key&quot;: &quot;submit.repository_imports.create&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18186103728&quot;, &quot;key&quot;: &quot;click.help.learn_more_about_repository_creation&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18188530140&quot;, &quot;key&quot;: &quot;test_event.do_not_use_in_production&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18191963644&quot;, &quot;key&quot;: &quot;click.empty_org_repo_cta.transfer_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18195612788&quot;, &quot;key&quot;: &quot;click.empty_org_repo_cta.import_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18210945499&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.invite_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18211063248&quot;, &quot;key&quot;: &quot;click.empty_org_repo_cta.create_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18215721889&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.update_profile&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18224360785&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.dismiss&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18234832286&quot;, &quot;key&quot;: &quot;submit.organization_activation.complete&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18252392383&quot;, &quot;key&quot;: &quot;submit.org_repository.create&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18257551537&quot;, &quot;key&quot;: &quot;submit.org_member_invitation.create&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18259522260&quot;, &quot;key&quot;: &quot;submit.organization_profile.update&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18564603625&quot;, &quot;key&quot;: &quot;view.classroom_select_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18568612016&quot;, &quot;key&quot;: &quot;click.classroom_sign_in_click&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18572592540&quot;, &quot;key&quot;: &quot;view.classroom_name&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18574203855&quot;, &quot;key&quot;: &quot;click.classroom_create_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18582053415&quot;, &quot;key&quot;: &quot;click.classroom_select_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18589463420&quot;, &quot;key&quot;: &quot;click.classroom_create_classroom&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18591323364&quot;, &quot;key&quot;: &quot;click.classroom_create_first_classroom&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18591652321&quot;, &quot;key&quot;: &quot;click.classroom_grant_access&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18607131425&quot;, &quot;key&quot;: &quot;view.classroom_creation&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;18831680583&quot;, &quot;key&quot;: &quot;upgrade_account_plan&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19064064515&quot;, &quot;key&quot;: &quot;click.signup&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19075373687&quot;, &quot;key&quot;: &quot;click.view_account_billing_page&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19077355841&quot;, &quot;key&quot;: &quot;click.dismiss_signup_prompt&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19079713938&quot;, &quot;key&quot;: &quot;click.contact_sales&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19120963070&quot;, &quot;key&quot;: &quot;click.compare_account_plans&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19151690317&quot;, &quot;key&quot;: &quot;click.upgrade_account_cta&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19424193129&quot;, &quot;key&quot;: &quot;click.open_account_switcher&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19520330825&quot;, &quot;key&quot;: &quot;click.visit_account_profile&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19540970635&quot;, &quot;key&quot;: &quot;click.switch_account_context&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19730198868&quot;, &quot;key&quot;: &quot;submit.homepage_signup&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19820830627&quot;, &quot;key&quot;: &quot;click.homepage_signup&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19988571001&quot;, &quot;key&quot;: &quot;click.create_enterprise_trial&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20036538294&quot;, &quot;key&quot;: &quot;click.create_organization_team&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20040653299&quot;, &quot;key&quot;: &quot;click.input_enterprise_trial_form&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20062030003&quot;, &quot;key&quot;: &quot;click.continue_with_team&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20068947153&quot;, &quot;key&quot;: &quot;click.create_organization_free&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20086636658&quot;, &quot;key&quot;: &quot;click.signup_continue.username&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20091648988&quot;, &quot;key&quot;: &quot;click.signup_continue.create_account&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20103637615&quot;, &quot;key&quot;: &quot;click.signup_continue.email&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20111574253&quot;, &quot;key&quot;: &quot;click.signup_continue.password&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20120044111&quot;, &quot;key&quot;: &quot;view.pricing_page&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20152062109&quot;, &quot;key&quot;: &quot;submit.create_account&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20165800992&quot;, &quot;key&quot;: &quot;submit.upgrade_payment_form&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20171520319&quot;, &quot;key&quot;: &quot;submit.create_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20222645674&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.discuss_your_needs&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20227443657&quot;, &quot;key&quot;: &quot;submit.verify_primary_user_email&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20234607160&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.try_enterprise&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20238175784&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.team&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20239847212&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.continue_free&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20251097193&quot;, &quot;key&quot;: &quot;recommended_plan&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20438619534&quot;, &quot;key&quot;: &quot;click.pricing_calculator.1_member&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20456699683&quot;, &quot;key&quot;: &quot;click.pricing_calculator.15_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20467868331&quot;, &quot;key&quot;: &quot;click.pricing_calculator.10_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20476267432&quot;, &quot;key&quot;: &quot;click.trial_days_remaining&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20476357660&quot;, &quot;key&quot;: &quot;click.discover_feature&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20479287901&quot;, &quot;key&quot;: &quot;click.pricing_calculator.custom_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20481107083&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.apply_teacher_benefits&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20483089392&quot;, &quot;key&quot;: &quot;click.pricing_calculator.5_members&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;, &quot;20652570897&quot;], &quot;id&quot;: &quot;20484283944&quot;, &quot;key&quot;: &quot;click.onboarding_task&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20484996281&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.apply_student_benefits&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20486713726&quot;, &quot;key&quot;: &quot;click.onboarding_task_breadcrumb&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20490791319&quot;, &quot;key&quot;: &quot;click.upgrade_to_enterprise&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20491786766&quot;, &quot;key&quot;: &quot;click.talk_to_us&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20494144087&quot;, &quot;key&quot;: &quot;click.dismiss_enterprise_trial&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;, &quot;20652570897&quot;], &quot;id&quot;: &quot;20499722759&quot;, &quot;key&quot;: &quot;completed_all_tasks&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;, &quot;20652570897&quot;], &quot;id&quot;: &quot;20500710104&quot;, &quot;key&quot;: &quot;completed_onboarding_tasks&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20513160672&quot;, &quot;key&quot;: &quot;click.read_doc&quot;}, {&quot;experimentIds&quot;: [&quot;20652570897&quot;], &quot;id&quot;: &quot;20516196762&quot;, &quot;key&quot;: &quot;actions_enabled&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20518980986&quot;, &quot;key&quot;: &quot;click.dismiss_trial_banner&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20535446721&quot;, &quot;key&quot;: &quot;click.issue_actions_prompt.dismiss_prompt&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20557002247&quot;, &quot;key&quot;: &quot;click.issue_actions_prompt.setup_workflow&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20595070227&quot;, &quot;key&quot;: &quot;click.pull_request_setup_workflow&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20626600314&quot;, &quot;key&quot;: &quot;click.seats_input&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20642310305&quot;, &quot;key&quot;: &quot;click.decrease_seats_number&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20662990045&quot;, &quot;key&quot;: &quot;click.increase_seats_number&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20679620969&quot;, &quot;key&quot;: &quot;click.public_product_roadmap&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20761240940&quot;, &quot;key&quot;: &quot;click.dismiss_survey_banner&quot;}, {&quot;experimentIds&quot;: [&quot;20479227424&quot;], &quot;id&quot;: &quot;20767210721&quot;, &quot;key&quot;: &quot;click.take_survey&quot;}, {&quot;experimentIds&quot;: [&quot;20652570897&quot;], &quot;id&quot;: &quot;20795281201&quot;, &quot;key&quot;: &quot;click.archive_list&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20966790249&quot;, &quot;key&quot;: &quot;contact_sales.submit&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20996500333&quot;, &quot;key&quot;: &quot;contact_sales.existing_customer&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20996890162&quot;, &quot;key&quot;: &quot;contact_sales.blank_message_field&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21000470317&quot;, &quot;key&quot;: &quot;contact_sales.personal_email&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21002790172&quot;, &quot;key&quot;: &quot;contact_sales.blank_phone_field&quot;}], &quot;revision&quot;: &quot;1020&quot;}" />
   <!-- To prevent page flashing, the optimizely JS needs to be loaded in the
     <head> tag before the DOM renders -->
   <script crossorigin="anonymous" defer="defer" integrity="sha512-stPGyO+GUOomTBqs1Y5EJnkYCf8cb/wFveUz/ncDr9XaP9olIwZerGQr4wFA3nBNqhbaqHsYbf0NfWJZ6XHjrg==" type="application/javascript" src="https://github.githubassets.com/assets/optimizely-b2d3c6c8.js"></script>
-
-
-
-  
 
       <meta name="hostname" content="github.com">
     <meta name="user-login" content="rajk7">
@@ -168,22 +149,17 @@
 
     <meta name="enabled-features" content="ACTIONS_CALLABLE_WORKFLOWS,MARKETPLACE_PENDING_INSTALLATIONS,LINKIFY_SELECTED_TEXT_ON_URL_PASTE,PRESENCE_IDLE">
 
-
   <meta http-equiv="x-pjax-version" content="2a0ed398d891434ebc5cd37a121dd8663578609e0ecf0d1b542fb263bb3ef861">
   <meta http-equiv="x-pjax-csp-version" content="9ea82e8060ac9d44365bfa193918b70ed58abd9413362ba412abb161b3a8d1b6">
   <meta http-equiv="x-pjax-css-version" content="8c06702a824b73d05c6dcbe160dc26951e0c3af9f2b6bd2c34681db7ef946a74">
   <meta http-equiv="x-pjax-js-version" content="996e21374117f01b7df2c1f75047cbdb09449e0572a60b7722454a61ba4735f6">
-  
 
-    
+
   <meta name="go-import" content="github.com/ashutosh1919/masterPortfolio git https://github.com/ashutosh1919/masterPortfolio.git">
 
   <meta name="octolytics-dimension-user_id" content="20843596" /><meta name="octolytics-dimension-user_login" content="ashutosh1919" /><meta name="octolytics-dimension-repository_id" content="245467274" /><meta name="octolytics-dimension-repository_nwo" content="ashutosh1919/masterPortfolio" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="245467274" /><meta name="octolytics-dimension-repository_network_root_nwo" content="ashutosh1919/masterPortfolio" />
 
-
-
     <link rel="canonical" href="https://github.com/ashutosh1919/masterPortfolio/blob/master/README.md" data-pjax-transient>
-
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
 
@@ -198,20 +174,19 @@
 <meta name="theme-color" content="#1e2327">
 <meta name="color-scheme" content="light dark" />
 
-
   <link rel="manifest" href="/manifest.json" crossOrigin="use-credentials">
 
   </head>
 
   <body class="logged-in env-production page-responsive page-blob" style="word-wrap: break-word;">
-    
+
 
     <div class="position-relative js-header-wrapper ">
       <a href="#start-of-content" class="p-3 color-bg-accent-emphasis color-fg-on-emphasis show-on-focus js-skip-to-content">Skip to content</a>
       <span data-view-component="true" class="progress-pjax-loader js-pjax-loader-bar Progress position-fixed width-full">
     <span style="width: 0%;" data-view-component="true" class="Progress-item progress-pjax-loader-bar left-0 top-0 color-bg-accent-emphasis"></span>
+
 </span>      
-      
 
 
         <script crossorigin="anonymous" defer="defer" integrity="sha512-MDUFJmbSiwphTNfpo3oZQCuUAFBDXGIiUw3O9ooCZlquzcC1Zt5j1XtlZliqzlAJt5QxHkdMzBTQSrSXYSXnQQ==" type="application/javascript" src="https://github.githubassets.com/assets/command-palette-30350526.js"></script>
@@ -219,14 +194,17 @@
             <header class="Header js-details-container Details px-3 px-md-4 px-lg-5 flex-wrap flex-md-nowrap" role="banner" >
     <div class="Header-item mt-n1 mb-n1  d-none d-md-flex">
       <a
-  class="Header-link "
-  href="https://github.com/"
-  data-hotkey="g d"
-  aria-label="Homepage "
-  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/ashutosh1919/masterPortfolio/blob/master/README.md&quot;,&quot;user_id&quot;:50164635}}" data-hydro-click-hmac="32168c56cd95508012336f5ada8e691ed7487d2557d8e692ad9517b2a8af51cc" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;}"
->
-  <svg height="32" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="32" data-view-component="true" class="octicon octicon-mark-github v-align-middle">
+
+class="Header-link "
+href="https://github.com/"
+data-hotkey="g d"
+aria-label="Homepage "
+data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/ashutosh1919/masterPortfolio/blob/master/README.md&quot;,&quot;user_id&quot;:50164635}}" data-hydro-click-hmac="32168c56cd95508012336f5ada8e691ed7487d2557d8e692ad9517b2a8af51cc" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;}"
+
+>   <svg height="32" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="32" data-view-component="true" class="octicon octicon-mark-github v-align-middle">
+
     <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path>
+
 </svg>
 </a>
 
@@ -235,12 +213,11 @@
     <div class="Header-item d-md-none">
       <button aria-label="Toggle navigation" aria-expanded="false" type="button" data-view-component="true" class="Header-link js-details-target btn-link">  <svg aria-hidden="true" height="24" viewBox="0 0 16 16" version="1.1" width="24" data-view-component="true" class="octicon octicon-three-bars">
     <path fill-rule="evenodd" d="M1 2.75A.75.75 0 011.75 2h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 2.75zm0 5A.75.75 0 011.75 7h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 7.75zM1.75 12a.75.75 0 100 1.5h12.5a.75.75 0 100-1.5H1.75z"></path>
+
 </svg>
 </button>    </div>
 
     <div class="Header-item Header-item--full flex-column flex-md-row width-full flex-order-2 flex-md-order-none mr-0 mr-md-3 mt-3 mt-md-0 Details-content--hidden-not-important d-md-flex">
-          
-
 
 
 <div class="header-search flex-auto js-site-search position-relative flex-self-stretch flex-md-self-auto mb-3 mb-md-0 mr-0 mr-md-3 scoped-search site-scoped-search js-jump-to"
@@ -271,11 +248,11 @@
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
-
           <div class="Box position-absolute overflow-hidden d-none jump-to-suggestions js-jump-to-suggestions-container">
-            
+
+
 <ul class="d-none js-jump-to-suggestions-template-container">
-  
+
 
 <li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-suggestion" role="option">
   <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="" data-item-type="suggestion">
@@ -310,6 +287,7 @@
       Jump to
       <span class="d-inline-block ml-1 v-align-middle">↵</span>
     </div>
+
   </a>
 </li>
 
@@ -322,7 +300,7 @@
 </ul>
 
 <ul id="jump-to-results" role="listbox" class="p-0 m-0 js-navigation-container jump-to-suggestions-results-container js-jump-to-suggestions-results-container">
-  
+
 
 <li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-scoped-search d-none" role="option">
   <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="" data-item-type="scoped_search">
@@ -357,10 +335,9 @@
       Jump to
       <span class="d-inline-block ml-1 v-align-middle">↵</span>
     </div>
+
   </a>
 </li>
-
-  
 
 <li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-owner-scoped-search d-none" role="option">
   <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="" data-item-type="owner_scoped_search">
@@ -395,10 +372,9 @@
       Jump to
       <span class="d-inline-block ml-1 v-align-middle">↵</span>
     </div>
+
   </a>
 </li>
-
-  
 
 <li class="d-flex flex-justify-start flex-items-center p-0 f5 navigation-item js-navigation-item js-jump-to-global-search d-none" role="option">
   <a tabindex="-1" class="no-underline d-flex flex-auto flex-items-center jump-to-suggestions-path js-jump-to-suggestion-path js-navigation-open p-2" href="" data-item-type="global_search">
@@ -433,12 +409,13 @@
       Jump to
       <span class="d-inline-block ml-1 v-align-middle">↵</span>
     </div>
+
   </a>
 </li>
 
-
     <li class="d-flex flex-justify-center flex-items-center p-0 f5 js-jump-to-suggestion">
       <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="32" height="32" viewBox="0 0 16 16" fill="none" data-view-component="true" class="m-3 anim-rotate">
+
   <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
   <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
 </svg>
@@ -447,12 +424,14 @@
 
           </div>
       </label>
+
 </form>  </div>
 </div>
 
         <nav class="d-flex flex-column flex-md-row flex-self-stretch flex-md-self-auto" aria-label="Global">
       <a class="Header-link py-md-3 d-block d-md-none py-2 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:dashboard:user" aria-label="Dashboard" href="/dashboard">
         Dashboard
+
 </a>
     <a class="js-selected-navigation-item Header-link mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade" data-hotkey="g p" data-ga-click="Header, click, Nav menu - item:pulls context:user" aria-label="Pull requests you created" data-selected-links="/pulls /pulls/assigned /pulls/mentioned /pulls" href="/pulls">
         Pull<span class="d-inline d-md-none d-lg-inline"> request</span>s
@@ -467,6 +446,7 @@
 
     <a class="js-selected-navigation-item Header-link mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:explore" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore" href="/explore">
       Explore
+
 </a>
     <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:workspaces context:user" data-selected-links="/codespaces /codespaces" href="/codespaces">
       Codespaces
@@ -475,6 +455,7 @@
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" href="/settings/profile">
       Settings
+
 </a>
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" href="/rajk7">
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/50164635?s=40&amp;v=4" width="20" height="20" alt="@rajk7" />
@@ -498,21 +479,24 @@
 
     <div class="Header-item Header-item--full flex-justify-center d-md-none position-relative">
         <a
-  class="Header-link "
-  href="https://github.com/"
-  data-hotkey="g d"
-  aria-label="Homepage "
-  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/ashutosh1919/masterPortfolio/blob/master/README.md&quot;,&quot;user_id&quot;:50164635}}" data-hydro-click-hmac="32168c56cd95508012336f5ada8e691ed7487d2557d8e692ad9517b2a8af51cc" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;}"
->
-  <svg height="32" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="32" data-view-component="true" class="octicon octicon-mark-github v-align-middle">
+
+class="Header-link "
+href="https://github.com/"
+data-hotkey="g d"
+aria-label="Homepage "
+data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/ashutosh1919/masterPortfolio/blob/master/README.md&quot;,&quot;user_id&quot;:50164635}}" data-hydro-click-hmac="32168c56cd95508012336f5ada8e691ed7487d2557d8e692ad9517b2a8af51cc" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;}"
+
+>   <svg height="32" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="32" data-view-component="true" class="octicon octicon-mark-github v-align-middle">
+
     <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path>
+
 </svg>
 </a>
 
     </div>
 
     <div class="Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none">
-        
+
 
 
       <notification-indicator
@@ -521,7 +505,7 @@
         data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NTAxNjQ2MzUiLCJ0IjoxNjQwOTQ5NjkwfQ==--048a02298d2f3f61ce0507caa0ef4142f73739867d1743ef63dd17947d8dd915">
         <a href="/notifications"
           class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
-          
+
           aria-label="You have no unread notifications"
           data-hotkey="g n"
           data-ga-click="Header, go to notifications, icon:read"
@@ -529,6 +513,7 @@
           <span class="mail-status  " data-target="notification-indicator.modifier"></span>
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bell">
     <path d="M8 16a2 2 0 001.985-1.75c.017-.137-.097-.25-.235-.25h-3.5c-.138 0-.252.113-.235.25A2 2 0 008 16z"></path><path fill-rule="evenodd" d="M8 1.5A3.5 3.5 0 004.5 5v2.947c0 .346-.102.683-.294.97l-1.703 2.556a.018.018 0 00-.003.01l.001.006c0 .002.002.004.004.006a.017.017 0 00.006.004l.007.001h10.964l.007-.001a.016.016 0 00.006-.004.016.016 0 00.004-.006l.001-.007a.017.017 0 00-.003-.01l-1.703-2.554a1.75 1.75 0 01-.294-.97V5A3.5 3.5 0 008 1.5zM3 5a5 5 0 0110 0v2.947c0 .05.015.098.042.139l1.703 2.555A1.518 1.518 0 0113.482 13H2.518a1.518 1.518 0 01-1.263-2.36l1.703-2.554A.25.25 0 003 7.947V5z"></path>
+
 </svg>
         </a>
       </notification-indicator>
@@ -538,6 +523,7 @@
 
     <div class="Header-item position-relative d-none d-md-flex">
         <details class="details-overlay details-reset">
+
   <summary
     class="Header-link"
     aria-label="Create new…"
@@ -565,15 +551,14 @@
     New organization
   </a>
 
-
-
   </details-menu>
 </details>
 
     </div>
 
     <div class="Header-item position-relative mr-0 d-none d-md-flex">
-        
+
+
   <details class="details-overlay details-reset js-feature-preview-indicator-container" data-feature-preview-indicator-src="/users/rajk7/feature_preview/indicator_check">
 
   <summary
@@ -605,21 +590,14 @@
 </details>
 
     </div>
+
 </header>
 
-            
     </div>
 
   <div id="start-of-content" class="show-on-focus"></div>
 
-
-
-
-
-
-
     <div data-pjax-replace id="js-flash-container">
-
 
   <template class="js-flash-template">
     <div class="flash flash-full  {{ className }}">
@@ -637,15 +615,10 @@
   </template>
 </div>
 
-
-    
-
-  <include-fragment class="js-notification-shelf-include-fragment" data-base-src="https://github.com/notifications/beta/shelf"></include-fragment>
-
-
-
+<include-fragment class="js-notification-shelf-include-fragment" data-base-src="https://github.com/notifications/beta/shelf"></include-fragment>
 
       <details class="details-reset details-overlay details-overlay-dark js-command-palette-dialog">
+
   <summary class="command-palette-details-summary" aria-label="command palette trigger">
   </summary>
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
@@ -713,6 +686,7 @@
         <div class="js-search-icon d-flex flex-items-center mr-2" style="height: 26px">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-search color-fg-muted">
     <path fill-rule="evenodd" d="M11.5 7a4.499 4.499 0 11-8.998 0A4.499 4.499 0 0111.5 7zm-.82 4.74a6 6 0 111.06-1.06l3.04 3.04a.75.75 0 11-1.06 1.06l-3.04-3.04z"></path>
+
 </svg>
         </div>
         <div class="js-spinner d-flex flex-items-center mr-2 color-fg-muted" hidden>
@@ -769,6 +743,7 @@
             <div>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
     <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
+
 </svg>
             </div>
             <div class="px-2">
@@ -1089,14 +1064,14 @@
             data-src="/command_palette/commands"
           data-supported-modes="[&quot;&gt;&quot;]"
             data-supports-commands
-          
+
           ></server-defined-provider>
         <server-defined-provider
           data-type="prefetched"
           data-fetch-debounce="0"
             data-src="/command_palette/jump_to_page_navigation"
           data-supported-modes="[&quot;&quot;]"
-          
+
           ></server-defined-provider>
         <server-defined-provider
           data-type="remote"
@@ -1104,7 +1079,7 @@
             data-src="/command_palette/issues"
           data-supported-modes="[&quot;#&quot;,&quot;#&quot;]"
             data-supported-scope-types="[&quot;owner&quot;,&quot;repository&quot;,&quot;&quot;]"
-          
+
           ></server-defined-provider>
         <server-defined-provider
           data-type="remote"
@@ -1112,14 +1087,14 @@
             data-src="/command_palette/jump_to"
           data-supported-modes="[&quot;@&quot;,&quot;@&quot;]"
             data-supported-scope-types="[&quot;&quot;,&quot;owner&quot;]"
-          
+
           ></server-defined-provider>
         <server-defined-provider
           data-type="remote"
           data-fetch-debounce="200"
             data-src="/command_palette/jump_to_members_only"
           data-supported-modes="[&quot;&quot;]"
-          
+
           ></server-defined-provider>
         <server-defined-provider
           data-type="prefetched"
@@ -1127,7 +1102,7 @@
             data-src="/command_palette/jump_to_members_only_prefetched"
           data-supported-modes="[&quot;@&quot;,&quot;@&quot;,&quot;&quot;]"
             data-supported-scope-types="[&quot;&quot;,&quot;owner&quot;]"
-          
+
           ></server-defined-provider>
         <server-defined-provider
           data-type="files"
@@ -1135,7 +1110,7 @@
             data-src="/command_palette/files"
           data-supported-modes="[&quot;/&quot;]"
             data-supported-scope-types="[&quot;repository&quot;]"
-          
+
           ></server-defined-provider>
         <server-defined-provider
           data-type="remote"
@@ -1143,7 +1118,7 @@
             data-src="/command_palette/discussions"
           data-supported-modes="[&quot;#&quot;]"
             data-supported-scope-types="[&quot;owner&quot;,&quot;repository&quot;]"
-          
+
           ></server-defined-provider>
         <server-defined-provider
           data-type="remote"
@@ -1151,7 +1126,7 @@
             data-src="/command_palette/projects"
           data-supported-modes="[&quot;#&quot;,&quot;!&quot;]"
             data-supported-scope-types="[&quot;owner&quot;,&quot;repository&quot;]"
-          
+
           ></server-defined-provider>
         <server-defined-provider
           data-type="prefetched"
@@ -1159,7 +1134,7 @@
             data-src="/command_palette/recent_issues"
           data-supported-modes="[&quot;#&quot;,&quot;#&quot;]"
             data-supported-scope-types="[&quot;owner&quot;,&quot;repository&quot;,&quot;&quot;]"
-          
+
           ></server-defined-provider>
         <server-defined-provider
           data-type="remote"
@@ -1167,23 +1142,24 @@
             data-src="/command_palette/teams"
           data-supported-modes="[&quot;@&quot;,&quot;&quot;]"
             data-supported-scope-types="[&quot;owner&quot;]"
-          
+
           ></server-defined-provider>
         <server-defined-provider
           data-type="remote"
           data-fetch-debounce="200"
             data-src="/command_palette/name_with_owner_repository"
           data-supported-modes="[&quot;&quot;]"
-          
+
           ></server-defined-provider>
         <server-defined-provider
           data-type="main-window-commands"
           data-fetch-debounce="0"
           data-supported-modes="[&quot;&gt;&quot;]"
             data-supports-commands
-          
+
           ></server-defined-provider>
     </command-palette>
+
   </details-dialog>
 </details>
 
@@ -1219,7 +1195,6 @@
     <span class="Toast-content"></span>
   </div>
 
-
   <div hidden class="anim-fade-in fast Toast Toast--success">
     <span class="Toast-icon">
       <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check">
@@ -1242,9 +1217,10 @@
       <div hidden class="js-command-palette-pjax-meta-data" data-pjax-replace id="command-palette-pjax-meta-data"
     data-subject-id="MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ="
     data-subject-type="Repository"
->
-</div>
 
+>
+
+</div>
 
   <div
     class="application-main "
@@ -1254,14 +1230,6 @@
   >
         <div itemscope itemtype="http://schema.org/SoftwareSourceCode" class="">
     <main id="js-repo-pjax-container" data-pjax-container >
-      
-
-    
-
-
-
-
-
 
 
   <div id="repository-container-header" class="pt-3 hide-full-screen mb-5" style="background-color: var(--color-page-header-bg);" data-pjax-replace>
@@ -1272,6 +1240,7 @@
             <h1 class=" d-flex flex-wrap flex-items-center wb-break-word f3 text-normal">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo color-fg-muted mr-2">
     <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"></path>
+
 </svg>
   <span class="author flex-self-stretch" itemprop="author">
     <a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/users/ashutosh1919/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/ashutosh1919">ashutosh1919</a>
@@ -1281,7 +1250,8 @@
     <a data-pjax="#repo-content-pjax-container" href="/ashutosh1919/masterPortfolio">masterPortfolio</a>
   </strong>
 
-  <span></span><span class="Label Label--secondary v-align-middle mr-1">Public</span>
+<span></span><span class="Label Label--secondary v-align-middle mr-1">Public</span>
+
 </h1>
 
         </div>
@@ -1302,11 +1272,12 @@
       <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:245467274,&quot;originating_url&quot;:&quot;https://github.com/ashutosh1919/masterPortfolio/blob/master/README.md&quot;,&quot;user_id&quot;:50164635}}" data-hydro-click-hmac="ac223f9f9b9dc4e498873396c338ec9972628c458e8fd10f65e15f9f3714f5e2" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">  <span data-menu-button>
             <span
               hidden
-              
+
               data-target="notifications-list-subscription-form.unwatchButtonCopy"
             >
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-eye">
     <path fill-rule="evenodd" d="M1.679 7.932c.412-.621 1.242-1.75 2.366-2.717C5.175 4.242 6.527 3.5 8 3.5c1.473 0 2.824.742 3.955 1.715 1.124.967 1.954 2.096 2.366 2.717a.119.119 0 010 .136c-.412.621-1.242 1.75-2.366 2.717C10.825 11.758 9.473 12.5 8 12.5c-1.473 0-2.824-.742-3.955-1.715C2.92 9.818 2.09 8.69 1.679 8.068a.119.119 0 010-.136zM8 2c-1.981 0-3.67.992-4.933 2.078C1.797 5.169.88 6.423.43 7.1a1.619 1.619 0 000 1.798c.45.678 1.367 1.932 2.637 3.024C4.329 13.008 6.019 14 8 14c1.981 0 3.67-.992 4.933-2.078 1.27-1.091 2.187-2.345 2.637-3.023a1.619 1.619 0 000-1.798c-.45-.678-1.367-1.932-2.637-3.023C11.671 2.992 9.981 2 8 2zm0 8a2 2 0 100-4 2 2 0 000 4z"></path>
+
 </svg>
               Unwatch
             </span>
@@ -1363,11 +1334,12 @@
                   role="menuitemradio"
                   aria-checked="true"
                   data-targets="notifications-list-subscription-form.subscriptionButtons"
-                  
+
                 >
                   <span class="f5">
                     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
+
 </svg>
                   </span>
                   <div>
@@ -1392,6 +1364,7 @@
                   <span class="f5">
                     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
+
 </svg>
                   </span>
                   <div>
@@ -1416,6 +1389,7 @@
                   <span class="f5">
                     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
+
 </svg>
                   </span>
                   <div>
@@ -1478,6 +1452,7 @@
                   >
                     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-arrow-left">
     <path fill-rule="evenodd" d="M7.78 12.53a.75.75 0 01-1.06 0L2.47 8.28a.75.75 0 010-1.06l4.25-4.25a.75.75 0 011.06 1.06L4.81 7h7.44a.75.75 0 010 1.5H4.81l2.97 2.97a.75.75 0 010 1.06z"></path>
+
 </svg>
                   </button>
                   Custom
@@ -1494,6 +1469,7 @@
                 >
                   <svg style="position: relative; left: 2px; top: 1px" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-arrow-left">
     <path fill-rule="evenodd" d="M7.78 12.53a.75.75 0 01-1.06 0L2.47 8.28a.75.75 0 010-1.06l4.25-4.25a.75.75 0 011.06 1.06L4.81 7h7.44a.75.75 0 010 1.5H4.81l2.97 2.97a.75.75 0 010 1.06z"></path>
+
 </svg>
                 </button>
 
@@ -1516,7 +1492,7 @@
                         value="Issue"
                         data-targets="notifications-list-subscription-form.threadTypeCheckboxes"
                         data-action="change:notifications-list-subscription-form#threadTypeCheckboxesUpdated"
-                        
+
                       >
                       Issues
                     </label>
@@ -1530,7 +1506,7 @@
                         value="PullRequest"
                         data-targets="notifications-list-subscription-form.threadTypeCheckboxes"
                         data-action="change:notifications-list-subscription-form#threadTypeCheckboxesUpdated"
-                        
+
                       >
                       Pull requests
                     </label>
@@ -1544,7 +1520,7 @@
                         value="Release"
                         data-targets="notifications-list-subscription-form.threadTypeCheckboxes"
                         data-action="change:notifications-list-subscription-form#threadTypeCheckboxesUpdated"
-                        
+
                       >
                       Releases
                     </label>
@@ -1558,17 +1534,18 @@
                         value="Discussion"
                         data-targets="notifications-list-subscription-form.threadTypeCheckboxes"
                         data-action="change:notifications-list-subscription-form#threadTypeCheckboxesUpdated"
-                        
+
                       >
                       Discussions
                     </label>
 
                       <span
                         class="tooltipped tooltipped-nw mr-2 p-1 float-right"
-                        
+
                         aria-label="Discussions are not enabled for this repo">
                         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-info color-fg-muted">
     <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"></path>
+
 </svg>
                       </span>
                   </div>
@@ -1589,9 +1566,11 @@
               </fieldset>
               <div class="pt-2 pb-3 px-3 d-flex flex-justify-start flex-row-reverse">
                 <button name="do" value="custom" data-target="notifications-list-subscription-form.customSubmit" disabled="disabled" type="submit" data-view-component="true" class="btn-primary btn-sm btn ml-2">  Apply
+
 </button>
 
                 <button data-action="click:notifications-list-subscription-form#resetForm" data-close-dialog="" type="button" data-view-component="true" class="btn-sm btn">  Cancel
+
 </button>
               </div>
 </form>          </div>
@@ -1600,23 +1579,22 @@
       </details>
     </notifications-list-subscription-form>
 
-
-
   </li>
-
 
     <li>
               <form class="btn-with-count" action="/ashutosh1919/masterPortfolio/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="KnYu94a003v9sgUhZ7SurGsRiCQrkUuG6v2/pNl+bMebQwIlmSZjtd59e/uh7Dlxt1TDOHDjl1cDEfG3Y2OVAg==" autocomplete="off" />
         <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:245467274,&quot;originating_url&quot;:&quot;https://github.com/ashutosh1919/masterPortfolio/blob/master/README.md&quot;,&quot;user_id&quot;:50164635}}" data-hydro-click-hmac="053792ab5c16efdced1b88f1ae4a36a33792d5894db145b6ff0eda0fc7e9e10c" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of ashutosh1919/masterPortfolio to your account" type="submit" data-view-component="true" class="btn-sm btn">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
+
 </svg>Fork
-            <span id="repo-network-counter" data-pjax-replace="true" title="555" data-view-component="true" class="Counter">555</span>
+<span id="repo-network-counter" data-pjax-replace="true" title="555" data-view-component="true" class="Counter">555</span>
 </button></form>
 
     </li>
 
     <li>
-          
+
+
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container BtnGroup d-flex">
     <form class="starred js-social-form BtnGroup-parent flex-auto" action="/ashutosh1919/masterPortfolio/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ZRH4uqiTdU6AkLZ7SW+RP/NnggvRnKQIV1KyhkeDMjCuvo0qa+YXEP07UPfx3nwxeWaDqjXFgYpsokurU8GLhA==" autocomplete="off" />
       <input type="hidden" name="context" value="repository">
@@ -1701,8 +1679,6 @@
   
     .
 
-
-  
 </div>      <button disabled="disabled" data-disable-invalid="true" data-submitting-message="Creating..." type="submit" data-view-component="true" class="btn-primary btn btn-block mt-2">  Create
 </button>
 
@@ -1717,18 +1693,19 @@
 </div>
 </template>
 
+<details-menu
+class="SelectMenu right-0"
+src="/ashutosh1919/masterPortfolio/lists"
+  
+ role="menu"
 
-  <details-menu
-    class="SelectMenu right-0"
-      src="/ashutosh1919/masterPortfolio/lists"
-      
-      role="menu"
-      
 >
+
     <div class="SelectMenu-modal">
         <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-857167">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
+
 </svg>
         </button>
       <div
@@ -1741,6 +1718,7 @@
 
             <include-fragment class="SelectMenu-loading" aria-label="Loading">
               <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="32" height="32" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate">
+
   <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
   <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
 </svg>
@@ -1754,9 +1732,8 @@
 </div>
     </li>
 
-
   <li>
-    
+
 
   </li>
 </ul>
@@ -1764,10 +1741,9 @@
       </div>
 
       <div id="responsive-meta-container" data-pjax-replace>
+
 </div>
 
-
-        
 <nav data-pjax="#js-repo-pjax-container" aria-label="Repository" data-view-component="true" class="js-repo-nav js-sidenav-container-pjax js-responsive-underlinenav overflow-hidden UnderlineNav px-3 px-md-4 px-lg-5">
 
   <ul data-view-component="true" class="UnderlineNav-body list-style-none">
@@ -1780,92 +1756,78 @@
           <span data-content="Code">Code</span>
             <span id="code-repo-tab-count" data-pjax-replace="" title="Not available" data-view-component="true" class="Counter"></span>
 
-
-    
 </a></li>
-      <li data-view-component="true" class="d-inline-flex">
-  <a id="issues-tab" href="/ashutosh1919/masterPortfolio/issues" data-tab-item="i1issues-tab" data-selected-links="repo_issues repo_labels repo_milestones /ashutosh1919/masterPortfolio/issues" data-pjax="#repo-content-pjax-container" data-hotkey="g i" data-ga-click="Repository, Navigation click, Issues tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
-    
-                  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened UnderlineNav-octicon d-none d-sm-inline">
-    <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"></path>
+<li data-view-component="true" class="d-inline-flex">
+<a id="issues-tab" href="/ashutosh1919/masterPortfolio/issues" data-tab-item="i1issues-tab" data-selected-links="repo_issues repo_labels repo_milestones /ashutosh1919/masterPortfolio/issues" data-pjax="#repo-content-pjax-container" data-hotkey="g i" data-ga-click="Repository, Navigation click, Issues tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  
+ <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened UnderlineNav-octicon d-none d-sm-inline">
+<path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"></path>
 </svg>
-          <span data-content="Issues">Issues</span>
-            <span id="issues-repo-tab-count" data-pjax-replace="" title="30" data-view-component="true" class="Counter">30</span>
+<span data-content="Issues">Issues</span>
+<span id="issues-repo-tab-count" data-pjax-replace="" title="30" data-view-component="true" class="Counter">30</span>
 
-
-    
 </a></li>
-      <li data-view-component="true" class="d-inline-flex">
-  <a id="pull-requests-tab" href="/ashutosh1919/masterPortfolio/pulls" data-tab-item="i2pull-requests-tab" data-selected-links="repo_pulls checks /ashutosh1919/masterPortfolio/pulls" data-pjax="#repo-content-pjax-container" data-hotkey="g p" data-ga-click="Repository, Navigation click, Pull requests tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
-    
-                  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request UnderlineNav-octicon d-none d-sm-inline">
-    <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"></path>
+<li data-view-component="true" class="d-inline-flex">
+<a id="pull-requests-tab" href="/ashutosh1919/masterPortfolio/pulls" data-tab-item="i2pull-requests-tab" data-selected-links="repo_pulls checks /ashutosh1919/masterPortfolio/pulls" data-pjax="#repo-content-pjax-container" data-hotkey="g p" data-ga-click="Repository, Navigation click, Pull requests tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  
+ <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request UnderlineNav-octicon d-none d-sm-inline">
+<path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"></path>
 </svg>
-          <span data-content="Pull requests">Pull requests</span>
-            <span id="pull-requests-repo-tab-count" data-pjax-replace="" title="21" data-view-component="true" class="Counter">21</span>
+<span data-content="Pull requests">Pull requests</span>
+<span id="pull-requests-repo-tab-count" data-pjax-replace="" title="21" data-view-component="true" class="Counter">21</span>
 
-
-    
 </a></li>
-      <li data-view-component="true" class="d-inline-flex">
-  <a id="actions-tab" href="/ashutosh1919/masterPortfolio/actions" data-tab-item="i3actions-tab" data-selected-links="repo_actions /ashutosh1919/masterPortfolio/actions" data-pjax="#repo-content-pjax-container" data-hotkey="g a" data-ga-click="Repository, Navigation click, Actions tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
-    
-                  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-play UnderlineNav-octicon d-none d-sm-inline">
-    <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zM6.379 5.227A.25.25 0 006 5.442v5.117a.25.25 0 00.379.214l4.264-2.559a.25.25 0 000-.428L6.379 5.227z"></path>
+<li data-view-component="true" class="d-inline-flex">
+<a id="actions-tab" href="/ashutosh1919/masterPortfolio/actions" data-tab-item="i3actions-tab" data-selected-links="repo_actions /ashutosh1919/masterPortfolio/actions" data-pjax="#repo-content-pjax-container" data-hotkey="g a" data-ga-click="Repository, Navigation click, Actions tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  
+ <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-play UnderlineNav-octicon d-none d-sm-inline">
+<path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zM6.379 5.227A.25.25 0 006 5.442v5.117a.25.25 0 00.379.214l4.264-2.559a.25.25 0 000-.428L6.379 5.227z"></path>
 </svg>
-          <span data-content="Actions">Actions</span>
-            <span id="actions-repo-tab-count" data-pjax-replace="" title="Not available" data-view-component="true" class="Counter"></span>
+<span data-content="Actions">Actions</span>
+<span id="actions-repo-tab-count" data-pjax-replace="" title="Not available" data-view-component="true" class="Counter"></span>
 
-
-    
 </a></li>
-      <li data-view-component="true" class="d-inline-flex">
-  <a id="projects-tab" href="/ashutosh1919/masterPortfolio/projects?type=beta" data-tab-item="i4projects-tab" data-selected-links="repo_projects new_repo_project repo_project /ashutosh1919/masterPortfolio/projects?type=beta" data-pjax="#repo-content-pjax-container" data-hotkey="g b" data-ga-click="Repository, Navigation click, Projects tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
-    
-                  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-table UnderlineNav-octicon d-none d-sm-inline">
-    <path fill-rule="evenodd" d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v3.585a.746.746 0 010 .83v8.085A1.75 1.75 0 0114.25 16H6.309a.748.748 0 01-1.118 0H1.75A1.75 1.75 0 010 14.25V6.165a.746.746 0 010-.83V1.75zM1.5 6.5v7.75c0 .138.112.25.25.25H5v-8H1.5zM5 5H1.5V1.75a.25.25 0 01.25-.25H5V5zm1.5 1.5v8h7.75a.25.25 0 00.25-.25V6.5h-8zm8-1.5h-8V1.5h7.75a.25.25 0 01.25.25V5z"></path>
+<li data-view-component="true" class="d-inline-flex">
+<a id="projects-tab" href="/ashutosh1919/masterPortfolio/projects?type=beta" data-tab-item="i4projects-tab" data-selected-links="repo_projects new_repo_project repo_project /ashutosh1919/masterPortfolio/projects?type=beta" data-pjax="#repo-content-pjax-container" data-hotkey="g b" data-ga-click="Repository, Navigation click, Projects tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  
+ <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-table UnderlineNav-octicon d-none d-sm-inline">
+<path fill-rule="evenodd" d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v3.585a.746.746 0 010 .83v8.085A1.75 1.75 0 0114.25 16H6.309a.748.748 0 01-1.118 0H1.75A1.75 1.75 0 010 14.25V6.165a.746.746 0 010-.83V1.75zM1.5 6.5v7.75c0 .138.112.25.25.25H5v-8H1.5zM5 5H1.5V1.75a.25.25 0 01.25-.25H5V5zm1.5 1.5v8h7.75a.25.25 0 00.25-.25V6.5h-8zm8-1.5h-8V1.5h7.75a.25.25 0 01.25.25V5z"></path>
 </svg>
-          <span data-content="Projects">Projects</span>
-            <span id="projects-repo-tab-count" data-pjax-replace="" title="0" hidden="hidden" data-view-component="true" class="Counter">0</span>
+<span data-content="Projects">Projects</span>
+<span id="projects-repo-tab-count" data-pjax-replace="" title="0" hidden="hidden" data-view-component="true" class="Counter">0</span>
 
-
-    
 </a></li>
-      <li data-view-component="true" class="d-inline-flex">
-  <a id="wiki-tab" href="/ashutosh1919/masterPortfolio/wiki" data-tab-item="i5wiki-tab" data-selected-links="repo_wiki /ashutosh1919/masterPortfolio/wiki" data-pjax="#repo-content-pjax-container" data-hotkey="g w" data-ga-click="Repository, Navigation click, Wikis tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
-    
-                  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-book UnderlineNav-octicon d-none d-sm-inline">
-    <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"></path>
+<li data-view-component="true" class="d-inline-flex">
+<a id="wiki-tab" href="/ashutosh1919/masterPortfolio/wiki" data-tab-item="i5wiki-tab" data-selected-links="repo_wiki /ashutosh1919/masterPortfolio/wiki" data-pjax="#repo-content-pjax-container" data-hotkey="g w" data-ga-click="Repository, Navigation click, Wikis tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  
+ <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-book UnderlineNav-octicon d-none d-sm-inline">
+<path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"></path>
 </svg>
-          <span data-content="Wiki">Wiki</span>
-            <span id="wiki-repo-tab-count" data-pjax-replace="" title="Not available" data-view-component="true" class="Counter"></span>
+<span data-content="Wiki">Wiki</span>
+<span id="wiki-repo-tab-count" data-pjax-replace="" title="Not available" data-view-component="true" class="Counter"></span>
 
-
-    
 </a></li>
-      <li data-view-component="true" class="d-inline-flex">
-  <a id="security-tab" href="/ashutosh1919/masterPortfolio/security" data-tab-item="i6security-tab" data-selected-links="security overview alerts policy token_scanning code_scanning /ashutosh1919/masterPortfolio/security" data-pjax="#repo-content-pjax-container" data-hotkey="g s" data-ga-click="Repository, Navigation click, Security tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
-    
-                  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-shield UnderlineNav-octicon d-none d-sm-inline">
-    <path fill-rule="evenodd" d="M7.467.133a1.75 1.75 0 011.066 0l5.25 1.68A1.75 1.75 0 0115 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.7 1.7 0 01-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 011.217-1.667l5.25-1.68zm.61 1.429a.25.25 0 00-.153 0l-5.25 1.68a.25.25 0 00-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.2.2 0 00.154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.25.25 0 00-.174-.237l-5.25-1.68zM9 10.5a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.75a.75.75 0 10-1.5 0v3a.75.75 0 001.5 0v-3z"></path>
+<li data-view-component="true" class="d-inline-flex">
+<a id="security-tab" href="/ashutosh1919/masterPortfolio/security" data-tab-item="i6security-tab" data-selected-links="security overview alerts policy token_scanning code_scanning /ashutosh1919/masterPortfolio/security" data-pjax="#repo-content-pjax-container" data-hotkey="g s" data-ga-click="Repository, Navigation click, Security tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  
+ <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-shield UnderlineNav-octicon d-none d-sm-inline">
+<path fill-rule="evenodd" d="M7.467.133a1.75 1.75 0 011.066 0l5.25 1.68A1.75 1.75 0 0115 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.7 1.7 0 01-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 011.217-1.667l5.25-1.68zm.61 1.429a.25.25 0 00-.153 0l-5.25 1.68a.25.25 0 00-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.2.2 0 00.154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.25.25 0 00-.174-.237l-5.25-1.68zM9 10.5a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.75a.75.75 0 10-1.5 0v3a.75.75 0 001.5 0v-3z"></path>
 </svg>
-          <span data-content="Security">Security</span>
-            <include-fragment src="/ashutosh1919/masterPortfolio/security/overall-count" accept="text/fragment+html"></include-fragment>
+<span data-content="Security">Security</span>
+<include-fragment src="/ashutosh1919/masterPortfolio/security/overall-count" accept="text/fragment+html"></include-fragment>
 
-    
 </a></li>
-      <li data-view-component="true" class="d-inline-flex">
-  <a id="insights-tab" href="/ashutosh1919/masterPortfolio/pulse" data-tab-item="i7insights-tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /ashutosh1919/masterPortfolio/pulse" data-pjax="#repo-content-pjax-container" data-ga-click="Repository, Navigation click, Insights tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
-    
-                  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-graph UnderlineNav-octicon d-none d-sm-inline">
-    <path fill-rule="evenodd" d="M1.5 1.75a.75.75 0 00-1.5 0v12.5c0 .414.336.75.75.75h14.5a.75.75 0 000-1.5H1.5V1.75zm14.28 2.53a.75.75 0 00-1.06-1.06L10 7.94 7.53 5.47a.75.75 0 00-1.06 0L3.22 8.72a.75.75 0 001.06 1.06L7 7.06l2.47 2.47a.75.75 0 001.06 0l5.25-5.25z"></path>
+<li data-view-component="true" class="d-inline-flex">
+<a id="insights-tab" href="/ashutosh1919/masterPortfolio/pulse" data-tab-item="i7insights-tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /ashutosh1919/masterPortfolio/pulse" data-pjax="#repo-content-pjax-container" data-ga-click="Repository, Navigation click, Insights tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  
+ <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-graph UnderlineNav-octicon d-none d-sm-inline">
+<path fill-rule="evenodd" d="M1.5 1.75a.75.75 0 00-1.5 0v12.5c0 .414.336.75.75.75h14.5a.75.75 0 000-1.5H1.5V1.75zm14.28 2.53a.75.75 0 00-1.06-1.06L10 7.94 7.53 5.47a.75.75 0 00-1.06 0L3.22 8.72a.75.75 0 001.06 1.06L7 7.06l2.47 2.47a.75.75 0 001.06 0l5.25-5.25z"></path>
 </svg>
-          <span data-content="Insights">Insights</span>
-            <span id="insights-repo-tab-count" data-pjax-replace="" title="Not available" data-view-component="true" class="Counter"></span>
+<span data-content="Insights">Insights</span>
+<span id="insights-repo-tab-count" data-pjax-replace="" title="Not available" data-view-component="true" class="Counter"></span>
 
-
-    
 </a></li>
+
 </ul>
     <div style="visibility:hidden;" data-view-component="true" class="UnderlineNav-actions js-responsive-underlinenav-overflow position-absolute pr-3 pr-md-4 pr-lg-5 right-0">      <details data-view-component="true" class="details-overlay details-reset position-relative">
   <summary role="button" data-view-component="true">          <div class="UnderlineNav-item mr-0 border-0">
@@ -1913,34 +1875,27 @@
             </ul>
 
 </details-menu></div>
+
 </details></div>
 </nav>
   </div>
-
-
 
 <div class="clearfix new-discussion-timeline container-xl px-3 px-md-4 px-lg-5">
   <div id="repo-content-pjax-container" class="repository-content " >
 
       <a href="https://github.dev/" class="d-none js-github-dev-shortcut" data-hotkey=".">Open in github.dev</a>
-  <a href="https://github.dev/" class="d-none js-github-dev-new-tab-shortcut" data-hotkey="Shift+.,Shift+&gt;,&gt;" target="_blank">Open in a new github.dev tab</a>
 
+<a href="https://github.dev/" class="d-none js-github-dev-new-tab-shortcut" data-hotkey="Shift+.,Shift+&gt;,&gt;" target="_blank">Open in a new github.dev tab</a>
 
-
-    
-      
-  
-  
 <div>
-  
-
 
 
     <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/ashutosh1919/masterPortfolio/blob/5f4654f2e297a901f2f90d33474b99d1be7917eb/README.md">Permalink</a>
 
 
     <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
-      
+
+
 <div class="position-relative">
   <details class="details-reset details-overlay mr-0 mb-0 " id="branch-select-menu">
     <summary class="btn css-truncate"
@@ -1953,7 +1908,6 @@
       <span class="dropdown-caret"></span>
     </summary>
 
-      
 <div class="SelectMenu">
   <div class="SelectMenu-modal">
     <header class="SelectMenu-header">
@@ -1994,7 +1948,7 @@
               focus-list:ref-selector#focusFirstListMember
             "
             query-endpoint="/ashutosh1919/masterPortfolio/refs"
-            
+
             cache-key="v0:1638153607.849257"
             current-committish="bWFzdGVy"
             default-branch="bWFzdGVy"
@@ -2008,13 +1962,14 @@
 
               <template data-target="ref-selector.noMatchTemplate">
     <div class="SelectMenu-message">Nothing to show</div>
-</template>
 
+</template>
 
             <!-- TODO: this max-height is necessary or else the branch list won't scroll.  why? -->
             <div data-target="ref-selector.listContainer" role="menu" class="SelectMenu-list " style="max-height: 330px" data-pjax="#repo-content-pjax-container">
               <div class="SelectMenu-loading pt-3 pb-0 overflow-hidden" aria-label="Menu is loading">
                 <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="32" height="32" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate">
+
   <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
   <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
 </svg>
@@ -2022,6 +1977,7 @@
             </div>
 
               <template data-target="ref-selector.itemTemplate">
+
   <a href="https://github.com/ashutosh1919/masterPortfolio/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
@@ -2030,7 +1986,6 @@
     <span hidden="{{ isNotDefault }}" class="Label Label--secondary flex-self-start">default</span>
   </a>
 </template>
-
 
               <footer class="SelectMenu-footer"><a href="/ashutosh1919/masterPortfolio/branches">View all branches</a></footer>
           </ref-selector>
@@ -2062,6 +2017,7 @@
             </template>
 
               <template data-target="ref-selector.itemTemplate">
+
   <a href="https://github.com/ashutosh1919/masterPortfolio/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
@@ -2071,10 +2027,10 @@
   </a>
 </template>
 
-
             <div data-target="ref-selector.listContainer" role="menu" class="SelectMenu-list" style="max-height: 330px" data-pjax="#repo-content-pjax-container">
               <div class="SelectMenu-loading pt-3 pb-0 overflow-hidden" aria-label="Menu is loading">
                 <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="32" height="32" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate">
+
   <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
   <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
 </svg>
@@ -2103,6 +2059,7 @@
       </a>
 
       <details id="blob-more-options-details" data-view-component="true" class="details-overlay details-reset position-relative">
+
   <summary role="button" data-view-component="true" class="btn">  <svg aria-label="More options" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal">
     <path d="M8 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM1.5 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zm13 0a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path>
 </svg>
@@ -2125,21 +2082,19 @@
     
                 Copy path
 
-</clipboard-copy>            </li>
-            <li>
-              <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/ashutosh1919/masterPortfolio/blob/5f4654f2e297a901f2f90d33474b99d1be7917eb/README.md" data-view-component="true" class="dropdown-item cursor-pointer">
-    
-                <span class="d-flex flex-items-baseline">
-                  <span class="flex-auto">Copy permalink</span>
-                </span>
+</clipboard-copy> </li>
+<li>
+<clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/ashutosh1919/masterPortfolio/blob/5f4654f2e297a901f2f90d33474b99d1be7917eb/README.md" data-view-component="true" class="dropdown-item cursor-pointer">
+  
+ <span class="d-flex flex-items-baseline">
+<span class="flex-auto">Copy permalink</span>
+</span>
 
-</clipboard-copy>            </li>
-          </ul>
+</clipboard-copy> </li>
+</ul>
+
 </div>
 </details>    </div>
-
-
-
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
       <include-fragment src="/ashutosh1919/masterPortfolio/contributors/master/README.md" class="commit-loader">
@@ -2152,32 +2107,28 @@
           <div class="Skeleton Skeleton--text col-1">&nbsp;</div>
           <span class="color-fg-danger h6 loader-error">Cannot retrieve contributors at this time</span>
         </div>
-</include-fragment>    </div>
 
-
-      
-
-
-
-
-
-
+</include-fragment> </div>
 
     <readme-toc>
 
     <div data-target="readme-toc.content" class="Box mt-3 position-relative">
-      
+
+
   <div
     class="Box-header blob-header js-sticky js-position-sticky top-0 p-2 d-flex flex-shrink-0 flex-md-row flex-items-center"
     style="position: sticky; z-index: 1;"
   >
 
       <details
-  data-target="readme-toc.trigger"
-  data-menu-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;trigger&quot;,&quot;repository_id&quot;:245467274,&quot;originating_url&quot;:&quot;https://github.com/ashutosh1919/masterPortfolio/blob/master/README.md&quot;,&quot;user_id&quot;:50164635}}"
-  data-menu-hydro-click-hmac="9fc83ffd0be973e1038d77a71ffec1759266d6d8ebe3f5e506cf40a3e5830e4c"
-  class="dropdown details-reset details-overlay"
+
+data-target="readme-toc.trigger"
+data-menu-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;trigger&quot;,&quot;repository_id&quot;:245467274,&quot;originating_url&quot;:&quot;https://github.com/ashutosh1919/masterPortfolio/blob/master/README.md&quot;,&quot;user_id&quot;:50164635}}"
+data-menu-hydro-click-hmac="9fc83ffd0be973e1038d77a71ffec1759266d6d8ebe3f5e506cf40a3e5830e4c"
+class="dropdown details-reset details-overlay"
+
 >
+
   <summary
     class="btn btn-octicon m-0 mr-2 p-2"
     aria-haspopup="true"
@@ -2186,7 +2137,6 @@
     <path fill-rule="evenodd" d="M2 4a1 1 0 100-2 1 1 0 000 2zm3.75-1.5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zM3 8a1 1 0 11-2 0 1 1 0 012 0zm-1 6a1 1 0 100-2 1 1 0 000 2z"></path>
 </svg>
   </summary>
-
 
   <details-menu class="SelectMenu" role="menu">
     <div class="SelectMenu-modal rounded-3 mt-1" style="max-height:340px;">
@@ -2224,15 +2174,16 @@
           <a role="menuitem" class="filter-item SelectMenu-item py-1 text-emphasized" style="padding-left: 12px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:245467274,&quot;originating_url&quot;:&quot;https://github.com/ashutosh1919/masterPortfolio/blob/master/README.md&quot;,&quot;user_id&quot;:50164635}}" data-hydro-click-hmac="67a2ace7afa44aec55164bccd93029fc3a90447b3711a83012b5144f51a7d66d" href="#references-">References 👏🏻</a>
       </div>
     </div>
+
   </details-menu>
 </details>
-
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
       248 lines (187 sloc)
       <span class="file-info-divider"></span>
     17.9 KB
+
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
@@ -2245,9 +2196,9 @@
 </svg>
 </a>  </div>
 
-
     <div class="BtnGroup">
       <a href="/ashutosh1919/masterPortfolio/raw/master/README.md" id="raw-url" data-view-component="true" class="btn-sm btn BtnGroup-item">  Raw
+
 </a>
         <a href="/ashutosh1919/masterPortfolio/blame/master/README.md" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash btn-sm btn BtnGroup-item">  Blame
 </a>
@@ -2261,43 +2212,43 @@
              data-ga-click="Repository, open with desktop">
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-device-desktop">
     <path fill-rule="evenodd" d="M1.75 2.5h12.5a.25.25 0 01.25.25v7.5a.25.25 0 01-.25.25H1.75a.25.25 0 01-.25-.25v-7.5a.25.25 0 01.25-.25zM14.25 1H1.75A1.75 1.75 0 000 2.75v7.5C0 11.216.784 12 1.75 12h3.727c-.1 1.041-.52 1.872-1.292 2.757A.75.75 0 004.75 16h6.5a.75.75 0 00.565-1.243c-.772-.885-1.193-1.716-1.292-2.757h3.727A1.75 1.75 0 0016 10.25v-7.5A1.75 1.75 0 0014.25 1zM9.018 12H6.982a5.72 5.72 0 01-.765 2.5h3.566a5.72 5.72 0 01-.765-2.5z"></path>
+
 </svg>
           </a>
 
         <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/ashutosh1919/masterPortfolio/raw/master/README.md" data-action="click:remote-clipboard-copy#remoteCopy">
-  
 
-
-  <span data-target="remote-clipboard-copy.idle">            <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:245467274,&quot;originating_url&quot;:&quot;https://github.com/ashutosh1919/masterPortfolio/blob/master/README.md&quot;,&quot;user_id&quot;:50164635}}" data-hydro-click-hmac="d82cd1b9e6398e5f2cbd5c95c79cb8c5a29336b521dba3da3bfd8037e6eb1122" aria-label="Copy raw contents">
-              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
-    <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
+<span data-target="remote-clipboard-copy.idle"> <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:245467274,&quot;originating_url&quot;:&quot;https://github.com/ashutosh1919/masterPortfolio/blob/master/README.md&quot;,&quot;user_id&quot;:50164635}}" data-hydro-click-hmac="d82cd1b9e6398e5f2cbd5c95c79cb8c5a29336b521dba3da3bfd8037e6eb1122" aria-label="Copy raw contents">
+<svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
+<path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
 </svg>
 </span></span>
-  <span data-target="remote-clipboard-copy.fetching" hidden="hidden">            <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="16" height="16" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate">
-  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
-  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
+<span data-target="remote-clipboard-copy.fetching" hidden="hidden"> <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="16" height="16" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate">
+<circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
+<path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
 </svg>
 </span>
-  <span data-target="remote-clipboard-copy.success" hidden="hidden">            <span class="tooltipped tooltipped-nw" aria-label="Copied!">
-              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check color-fg-success">
-    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
+<span data-target="remote-clipboard-copy.success" hidden="hidden"> <span class="tooltipped tooltipped-nw" aria-label="Copied!">
+<svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check color-fg-success">
+<path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
-            </span>
 </span>
-  <span data-target="remote-clipboard-copy.error" hidden="hidden">            <span class="tooltipped tooltipped-nw" aria-label="Something went wrong. Try again.">
-              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert color-fg-attention">
-    <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
+</span>
+<span data-target="remote-clipboard-copy.error" hidden="hidden"> <span class="tooltipped tooltipped-nw" aria-label="Something went wrong. Try again.">
+<svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert color-fg-attention">
+<path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
 </svg>
-            </span>
+</span>
 </span>
 </remote-clipboard-copy>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/ashutosh1919/masterPortfolio/edit/master/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="oe8pfOH/SZ1d8Tst6JAcdD6+4LyUfiab6FG7yCWD+UfBcPuYxgC5vaanr/syvCC22vDCcO0IMPTs2ZGqlMo01A==" />
-            <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
+<!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/ashutosh1919/masterPortfolio/edit/master/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="oe8pfOH/SZ1d8Tst6JAcdD6+4LyUfiab6FG7yCWD+UfBcPuYxgC5vaanr/syvCC22vDCcO0IMPTs2ZGqlMo01A==" />
+<button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
-              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
-    <path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path>
+<svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
+<path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path>
 </svg>
-            </button>
+</button>
+
 </form>
           <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/ashutosh1919/masterPortfolio/delete/master/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="hVLoPONYc/xM+NVtagia0hQdFOblrN3QhKfFG7xvAVnDJCkqWmUTxHNdXcHvNg+T15HNAxQVwVHArzrHv2s2/g==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
@@ -2314,6 +2265,7 @@
         <summary class="btn-octicon p-2" aria-haspopup="true" aria-label="possible actions">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal">
     <path d="M8 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM1.5 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zm13 0a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path>
+
 </svg>
         </summary>
 
@@ -2333,35 +2285,34 @@
           </li>
             <li>
               <remote-clipboard-copy class="dropdown-item" data-src="/ashutosh1919/masterPortfolio/raw/master/README.md" data-action="click:remote-clipboard-copy#remoteCopy">
-  
 
-  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:245467274,&quot;originating_url&quot;:&quot;https://github.com/ashutosh1919/masterPortfolio/blob/master/README.md&quot;,&quot;user_id&quot;:50164635}}" data-hydro-click-hmac="d82cd1b9e6398e5f2cbd5c95c79cb8c5a29336b521dba3da3bfd8037e6eb1122">
-                    Copy raw contents
+<span data-target="remote-clipboard-copy.idle"> <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:245467274,&quot;originating_url&quot;:&quot;https://github.com/ashutosh1919/masterPortfolio/blob/master/README.md&quot;,&quot;user_id&quot;:50164635}}" data-hydro-click-hmac="d82cd1b9e6398e5f2cbd5c95c79cb8c5a29336b521dba3da3bfd8037e6eb1122">
+Copy raw contents
 </span></span>
-  <span data-target="remote-clipboard-copy.fetching" hidden="hidden">                  Copy raw contents
-                  <span class="d-inline-block position-relative" style="top: 3px">
-                    <svg aria-label="fetching contents…" style="box-sizing: content-box; color: var(--color-icon-primary);" width="16" height="16" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate">
-  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
-  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
-</svg>
-                  </span>
-</span>
-  <span data-target="remote-clipboard-copy.success" hidden="hidden">                  Copy raw contents
-                  <svg aria-label="Copied!" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check color-fg-success">
-    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
+<span data-target="remote-clipboard-copy.fetching" hidden="hidden"> Copy raw contents
+<span class="d-inline-block position-relative" style="top: 3px">
+<svg aria-label="fetching contents…" style="box-sizing: content-box; color: var(--color-icon-primary);" width="16" height="16" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate">
+<circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
+<path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
 </svg>
 </span>
-  <span data-target="remote-clipboard-copy.error" hidden="hidden">                  Copy raw contents
-                  <svg aria-label="Something went wrong. Try again." role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert color-fg-attention">
-    <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
+</span>
+<span data-target="remote-clipboard-copy.success" hidden="hidden"> Copy raw contents
+<svg aria-label="Copied!" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check color-fg-success">
+<path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
 </span>
-</remote-clipboard-copy>            </li>
-            <li>
-              <a class="dropdown-item" href="/ashutosh1919/masterPortfolio/blame/master/README.md">
-                View blame
-              </a>
-            </li>
+<span data-target="remote-clipboard-copy.error" hidden="hidden"> Copy raw contents
+<svg aria-label="Something went wrong. Try again." role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert color-fg-attention">
+<path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
+</svg>
+</span>
+</remote-clipboard-copy> </li>
+<li>
+<a class="dropdown-item" href="/ashutosh1919/masterPortfolio/blame/master/README.md">
+View blame
+</a>
+</li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
@@ -2373,12 +2324,13 @@
         </ul>
       </details>
     </div>
+
 </div>
 
-
         <div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0">
-    <article class="markdown-body entry-content container-lg" itemprop="text"><p align="center" dir="auto"> 
+    <article class="markdown-body entry-content container-lg" itemprop="text"><p align="center" dir="auto">
     <a target="_blank" rel="noopener noreferrer" href="/ashutosh1919/masterPortfolio/blob/master/images/masterportfolio-banner-light.png"><img src="/ashutosh1919/masterPortfolio/raw/master/images/masterportfolio-banner-light.png" align="center" height="150" style="max-width: 100%;"></a>
+
 </p>
 <h1 align="center" dir="auto"><a id="user-content--software-developer-master-portfolio--" class="anchor" aria-hidden="true" href="#-software-developer-master-portfolio--"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a> Software Developer Master Portfolio <g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> </h1> 
 <h3 align="center" dir="auto"><a id="user-content--a-clean-beautiful-responsive-and-100-customizable-portfolio--template-for-software-developers-" class="anchor" aria-hidden="true" href="#-a-clean-beautiful-responsive-and-100-customizable-portfolio--template-for-software-developers-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a> A clean, beautiful, responsive and 100% customizable portfolio <br> template for Software Developers! </h3>
@@ -2451,20 +2403,21 @@ const greeting = {
 
 // Social Media
 const socialMediaLinks = {
-    ...
+...
 }
 
 ..."><pre><span class="pl-c">// Home Page</span>
 <span class="pl-k">const</span> <span class="pl-s1">greeting</span> <span class="pl-c1">=</span> <span class="pl-kos">{</span>
-    ...
+...
 <span class="pl-kos">}</span>
 
 <span class="pl-c">// Social Media</span>
 <span class="pl-k">const</span> <span class="pl-s1">socialMediaLinks</span> <span class="pl-c1">=</span> <span class="pl-kos">{</span>
-    ...
+...
 <span class="pl-kos">}</span>
 
 <span class="pl-kos">.</span><span class="pl-kos">.</span><span class="pl-kos">.</span></pre></div>
+
 <p dir="auto">You can change the personal information, experience, education, social media, certifications, blog information, contact information etc. in <code>src/portfolio.js</code> to directly reflect them in portfolio website.</p>
 <h3 dir="auto"><a id="user-content-github-information" class="anchor" aria-hidden="true" href="#github-information"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Github Information</h3>
 <p dir="auto">You will find <code>git_data_fetcher.mjs</code> file in the main directory of the repository. This file is used to fetch the data (Pull requests, Issues, Organizations, Pinned projects etc.) from your github.
@@ -2588,8 +2541,6 @@ If you are stuck somewhere and want to observe the deployment process in depth, 
 </ul>
 <h1 dir="auto"><a id="user-content-contributors-" class="anchor" aria-hidden="true" href="#contributors-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Contributors <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji></h1>
 
-
-
 <table>
   <tbody><tr>
     <td align="center"><a href="http://ashutosh1919.github.io" rel="nofollow"><img src="https://avatars3.githubusercontent.com/u/20843596?s=460&amp;u=7f184b911f73ae1dc5765ab686fff2b2e984830f&amp;v=4?s=100" width="100px;" alt="" style="max-width: 100%;"><br><sub><b>Ashutosh Hathidara</b></sub></a><br><a href="https://github.com/ashutosh1919/masterPortfolio/commits?author=ashutosh1919" title="Code"><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji></a> <a href="https://github.com/ashutosh1919/masterPortfolio/commits?author=ashutosh1919" title="Documentation"><g-emoji class="g-emoji" alias="book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png">📖</g-emoji></a> <a href="#design-ashutosh1919" title="Design"><g-emoji class="g-emoji" alias="art" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a8.png">🎨</g-emoji></a> <a href="#maintenance-ashutosh1919" title="Maintenance"><g-emoji class="g-emoji" alias="construction" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a7.png">🚧</g-emoji></a> <a href="#ideas-ashutosh1919" title="Ideas, Planning, &amp; Feedback"><g-emoji class="g-emoji" alias="thinking" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f914.png">🤔</g-emoji></a></td>
@@ -2617,8 +2568,6 @@ If you are stuck somewhere and want to observe the deployment process in depth, 
   </tr>
 </tbody></table>
 
-
-
 <h1 dir="auto"><a id="user-content-references-" class="anchor" aria-hidden="true" href="#references-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>References 👏🏻</h1>
 <ul dir="auto">
 <li>Some Design and Implementation Ideas are taken from <a href="https://github.com/saadpasta/developerFolio">Saad Pasta's Portfolio Project</a>.</li>
@@ -2630,8 +2579,6 @@ If you are stuck somewhere and want to observe the deployment process in depth, 
     </div>
 
   </readme-toc>
-
-  
 
   <details class="details-reset details-overlay details-overlay-dark" id="jumpto-line-details-dialog">
     <summary data-hotkey="l" aria-label="Jump to line"></summary>
@@ -2647,27 +2594,25 @@ If you are stuck somewhere and want to observe the deployment process in depth, 
      hidden
      data-tagsearch-url="/ashutosh1919/masterPortfolio/find-definition"
      data-tagsearch-ref="master">
+
   <div class="Popover-message Popover-message--large Popover-message--top-left TagsearchPopover mt-1 mb-4 mx-auto Box color-shadow-large">
     <div class="TagsearchPopover-content js-tagsearch-popover-content overflow-auto" style="will-change:transform;">
     </div>
   </div>
 </div>
 
-
 </div>
-
-
 
   </div>
 </div>
 
     </main>
+
   </div>
 
   </div>
 
           <footer class="footer width-full container-xl p-responsive" role="contentinfo">
-
 
   <div class="position-relative d-flex flex-items-center pb-2 f6 color-fg-muted border-top color-border-muted flex-column-reverse flex-lg-row flex-wrap flex-lg-nowrap mt-6 pt-6">
     <ul class="list-style-none d-flex flex-wrap col-0 col-lg-2 flex-justify-start flex-lg-justify-between mb-2 mb-lg-0">
@@ -2699,9 +2644,6 @@ If you are stuck somewhere and want to observe the deployment process in depth, 
     <span class="f6 color-fg-muted"></span>
   </div>
 </footer>
-
-
-
 
   <div id="ajax-error-message" class="ajax-error-message flash flash-error" hidden>
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
@@ -2738,11 +2680,13 @@ If you are stuck somewhere and want to observe the deployment process in depth, 
 </template>
 
     <div class="Popover js-hovercard-content position-absolute" style="display: none; outline: none;" tabindex="0">
+
   <div class="Popover-message Popover-message--bottom-left Popover-message--large Box color-shadow-large" style="width:360px;">
   </div>
 </div>
 
     <template id="snippet-clipboard-copy-button">
+
   <div class="zeroclipboard-container position-absolute right-0 top-0">
     <clipboard-copy aria-label="Copy" class="ClipboardButton btn js-clipboard-copy m-2 p-0 tooltipped-no-delay" data-copy-feedback="Copied!" data-tooltip-direction="w">
       <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon m-2">
@@ -2755,7 +2699,6 @@ If you are stuck somewhere and want to observe the deployment process in depth, 
   </div>
 </template>
 
-
     <style>
       .user-mention[href$="/rajk7"] {
         color: var(--color-user-mention-fg);
@@ -2767,7 +2710,5 @@ If you are stuck somewhere and want to observe the deployment process in depth, 
       }
     </style>
 
-
   </body>
 </html>
-
