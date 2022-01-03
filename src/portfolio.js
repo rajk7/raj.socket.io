@@ -647,13 +647,13 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "Raj portpholio.png",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
+      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with Unity, C#, NodeJS, SQL, dotNet and Opensource Development.",
   },
   blogSection: {
     title: "Blogs",
     subtitle:
-      "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
-    link: "https://ashutoshhathidara.wordpress.com",
+      "For individual fundamental empowerment, I like to create impact on game world with my knowledge and talent to help other developers to grow and make their own games.",
+    link: "https://github.com/rajk7",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
