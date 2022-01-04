@@ -255,6 +255,19 @@ const languages_icons = {
   PHP: "logos-php",
   Dockerfile: "simple-icons:docker",
   Rust: "logos-rust",
+  Unity: "simple-icons:unity",
+  Photoshop: "vscode-icons:file-type-photoshop",
+  Illustrator: "simple-icons:adobeillustrator",
+  NodeJs: "logos:nodejs-icon",
+  Blender: "logos:blender",
+  SocketIO: "cib:socket-io",
+  WebSocket: "logos:websocket",
+  dotNET: "mdi:dot-net",
+  Firebase: "logos:firebase",
+  AR: "ion:logo-apple-ar",
+  Flutter: "logos:flutter",
+  Dart: "logos:dart",
+
 };
 
 fetch(baseUrl, {

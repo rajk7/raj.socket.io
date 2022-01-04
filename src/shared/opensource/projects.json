@@ -1,9 +1,53 @@
 {
   "data": [
     {
+      "id": "MDEwOlJlcG9zaXRvcnkyNjkwNzUwMjM=",
+      "name": "RPG Game",
+      "createdAt": "2019-05-01T11:53:55Z",
+      "url": "https://github.com/rajk7/University_RPG",
+      "description": "The environment of the game is the imitation of “Christ University faculty of engineering” campus and same has been created using Blender. Each part of the campus is precisely taken care of in this game. Unity as a platform is used for scripting (C#), prefabs, physics collisions, navmesh, pathfinding and rendering of the objects.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "C#",
+          "iconifyClass": "logos-c-sharp"
+        },
+        {
+          "name": "Unity",
+          "iconifyClass": "simple-icons:unity"
+        },
+        {
+          "name": "Blender",
+          "iconifyClass": "logos:blender"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNzM1MTI1NTE=",
+      "name": "ARCards",
+      "createdAt": "2021-12-28T14:24:55Z",
+      "url": "https://github.com/rajk7/ARCards",
+      "description": "ARCards is keeping 3D object on top of DL cards",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Unity",
+          "iconifyClass": "simple-icons:unity"
+        },
+        {
+          "name": "AR",
+          "iconifyClass": "ion:logo-apple-ar"
+        },
+        {
+          "name": "Blender",
+          "iconifyClass": "logos:blender"
+        }
+      ]
+    },
+    {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
       "name": "Portfolio",
-      "createdAt": "2020-03-06T16:26:54Z",
+      "createdAt": "2021-12-21T16:26:54Z",
       "url": "https://github.com/rajk7/rajk7.github.io",
       "description": "The complete portfolio website hosted using github pages (gh-pages). Visit the website here : ",
       "isFork": false,
@@ -23,84 +67,64 @@
       ]
     },
     {
-      "id": "MDEwOlJlcG9zaXRvcnkyNjkwNzUwMjM=",
-      "name": "truvisory",
-      "createdAt": "2020-06-03T11:53:55Z",
-      "url": "https://github.com/rajk7/truvisory",
-      "description": "This project is meant to provide resources to users who want to access good LinkedIn posts which contains resources to learn any Technology, Design, Self-Branding, Motivation etc. You can visit project by:",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        }
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkyNzM1MTI1NTE=",
-      "name": "ml-data-bot",
-      "createdAt": "2020-06-19T14:24:55Z",
-      "url": "https://github.com/rajk7/ml-data-bot",
-      "description": "Chatbot which helps you to get important statistics from the data to get insights to build Machine learning, Deep learning and Statistical models",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        }
-      ]
-    },
-    {
       "id": "MDEwOlJlcG9zaXRvcnkxNTU5NTE3NTk=",
-      "name": "Stock-Prediction-using-LSTM",
-      "createdAt": "2018-11-03T05:00:56Z",
-      "url": "https://github.com/rajk7/Stock-Prediction-using-LSTM",
-      "description": "This Project is predicting stocks for 32 companies with error less than 1% using LSTM Networks.",
+      "name": "Chess Game",
+      "createdAt": "2021-07-09T05:00:56Z",
+      "url": "https://github.com/rajk7/chess",
+      "description": "This Project is full ludo game both 2D and 3D games with multiplayer game networks.",
       "isFork": false,
       "languages": [
         {
-          "name": "Python",
-          "iconifyClass": "logos-python"
+          "name": "Unity",
+          "iconifyClass": "simple-icons:unity"
         },
         {
-          "name": "Jupyter Notebook",
-          "iconifyClass": "logos-jupyter"
+          "name": "C#",
+          "iconifyClass": "logos-c-sharp"
+        },
+        {
+          "name": "NodeJS",
+          "iconifyClass": "logos:nodejs-icon"
         }
       ]
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkyMDIxNDc4ODA=",
-      "name": "Pick-Parser",
-      "createdAt": "2019-08-13T13:13:00Z",
-      "url": "https://github.com/dsc-iiitdmk/Pick-Parser",
-      "description": "This Project is to create a tool which can parse the Resumes and transform them into our own templates",
+      "name": "EndLess-Game",
+      "createdAt": "2020-02-10T13:13:00Z",
+      "url": "https://github.com/rajk7/EndLess-Game",
+      "description": "Endless Game can make every form of endless game like Temple Run",
       "isFork": false,
       "languages": [
         {
-          "name": "Python",
-          "iconifyClass": "logos-python"
+          "name": "Unity",
+          "iconifyClass": "simple-icons:unity"
+        },
+        {
+          "name": "C#",
+          "iconifyClass": "logos-c-sharp"
+        },
+        {
+          "name": "Photoshop",
+          "iconifyClass": "vscode-icons:file-type-photoshop"
         }
       ]
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkxODIxMjk3NTQ=",
-      "name": "Survival_3D_Game",
-      "createdAt": "2019-04-18T17:25:51Z",
-      "url": "https://github.com/rajk7/Survival_3D_Game",
-      "description": "Survival Game using Unity3D",
+      "name": "Flutter App",
+      "createdAt": "2021-07-02T17:25:51Z",
+      "url": "https://github.com/rajk7/flutterFirstApp",
+      "description": "This project is a starting point for a Flutter application. A few resources to get you started if this is your first Flutter project:",
       "isFork": false,
       "languages": [
         {
-          "name": "C#",
-          "iconifyClass": "logos-c-sharp"
+          "name": "Flutter",
+          "iconifyClass": "logos:flutter"
+        },
+        {
+          "name": "Dart",
+          "iconifyClass": "logos:dart"
         }
       ]
     }
