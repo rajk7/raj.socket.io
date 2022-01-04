@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "36cdfeb7cbe78cc542f9b7c1466cbe76",
+    "revision": "d86b464a287d2cac8ef23ad4c1c3f403",
     "url": "./index.html"
   },
   {
-    "revision": "972548e3f5d89a2b3b18",
+    "revision": "7569280e039ce7da20a7",
     "url": "./static/css/main.a5ce600f.chunk.css"
   },
   {
-    "revision": "2c21dc5151e6097f6cff",
-    "url": "./static/js/2.a92c9d59.chunk.js"
+    "revision": "866efa7f552fd879b733",
+    "url": "./static/js/2.2ac927e0.chunk.js"
   },
   {
-    "revision": "972548e3f5d89a2b3b18",
-    "url": "./static/js/main.6e90b589.chunk.js"
+    "revision": "7569280e039ce7da20a7",
+    "url": "./static/js/main.8f8f73b6.chunk.js"
   },
   {
     "revision": "4f6aa4718cb45d8bd086",
@@ -22,6 +22,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
     "url": "./static/media/Agustina.21f233e1.woff"
+  },
+  {
+    "revision": "cbe1a99e3be2cb3dc32914e4bfe904df",
+    "url": "./static/media/Christ.cbe1a99e.png"
   },
   {
     "revision": "4457817ac2b9993c65e81aa05828fe9c",
@@ -56,12 +60,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/Raj portpholio.df9e6256.png"
   },
   {
+    "revision": "e679f19486561c4a882b5214709fa593",
+    "url": "./static/media/Udemy_logo1.e679f194.png"
+  },
+  {
     "revision": "16559172ca1d4d552390b48f19e102ba",
     "url": "./static/media/address_image.16559172.svg"
   },
   {
     "revision": "dcd6dee2bd7458a4a576dc131506fd83",
     "url": "./static/media/animated_logo.dcd6dee2.svg"
+  },
+  {
+    "revision": "cdc80143006d1b8d4440da9005cba02e",
+    "url": "./static/media/aws.cdc80143.png"
   },
   {
     "revision": "058eca4cbdc03a1dad9a6bb943ac7831",
@@ -248,11 +260,23 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/talksCardBackAlt.3fa54242.svg"
   },
   {
+    "revision": "691edd0697d29134b156f583450fe81c",
+    "url": "./static/media/techflinch.691edd06.png"
+  },
+  {
     "revision": "79066a004181b84eaebbac15ed136bea",
     "url": "./static/media/titan co.79066a00.png"
   },
   {
+    "revision": "b9ec5aff14fc2923697640933a1caab4",
+    "url": "./static/media/udemy-logo.b9ec5aff.png"
+  },
+  {
     "revision": "d63630893eb8cb64af65f395d393c481",
     "url": "./static/media/ui_ux_design.d6363089.svg"
+  },
+  {
+    "revision": "dfc3634f212797b3377486ea9e6da994",
+    "url": "./static/media/zenva-academy.dfc3634f.png"
   }
 ]);
