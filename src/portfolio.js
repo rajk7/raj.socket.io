@@ -26,9 +26,9 @@ const greeting = {
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and technical systems to create impact and dedicated to learn, grow and excel as a individual",
   resumeLink:
-    "https://drive.google.com/file/d/1XgLAtx0gnQRZNcnKxJ9dg2YMSxbDfVwq/view?usp=sharing",
+    "https://drive.google.com/file/d/1sKZ6a7AxxtVjLGShdq0KvtSITTIoK9Zp/view?usp=sharing",
   portfolio_repository:
-    "https://drive.google.com/file/d/1XgLAtx0gnQRZNcnKxJ9dg2YMSxbDfVwq/view?usp=sharing",
+    "https://drive.google.com/file/d/1sKZ6a7AxxtVjLGShdq0KvtSITTIoK9Zp/view?usp=sharing",
   githubProfile: "https://github.com/rajk7",
 };
 
@@ -46,24 +46,25 @@ const socialMediaLinks = [
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
   {
+    name: "Twitter",
+    link: "https://twitter.com/mahatoraj8",
+    fontAwesomeIcon: "fa-twitter", // Reference https://fontawesome.com/icons/twitter?style=brands
+    backgroundColor: "#1DA1F2", // Reference https://simpleicons.org/?q=twitter
+  },
+  {
     name: "Gmail",
     link: "mailto:mahatoraj8@gmail.com",
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
-  /*{
+  /*
+  {
     name: "YouTube",
     link: "https://www.youtube.com/channel/UC_amoXmmxSY9KusoDczDTXQ",
     fontAwesomeIcon: "fa-youtube", // Reference https://fontawesome.com/icons/youtube?style=brands
     backgroundColor: "#FF0000", // Reference https://simpleicons.org/?q=youtube
   },
   
-  {
-    name: "Twitter",
-    link: "https://twitter.com/ashutosh_1919",
-    fontAwesomeIcon: "fa-twitter", // Reference https://fontawesome.com/icons/twitter?style=brands
-    backgroundColor: "#1DA1F2", // Reference https://simpleicons.org/?q=twitter
-  },
   {
     name: "Facebook",
     link: "https://www.facebook.com/laymanbrother.19/",
@@ -86,7 +87,7 @@ const skills = {
       skills: [
         "⚡ Developing highly scalable production ready models for Complex and Dynamic Game Logic and AI game management.",
         "⚡ Experience of working with Hyper Casual Games and Multiplayer Games",
-        "⚡ Participate in user experience & interaction design and implementation efforts in AR/VR environments",
+        "⚡ Made project on XR, VR, AR, MR to experience & interaction with extended reality(XR) environments",
       ],
       softwareSkills: [
         {
@@ -105,19 +106,19 @@ const skills = {
           },
         },
         {
-          skillName: "VR",
-          fontAwesomeClassname: "bi:badge-vr",
-          style: {
-            backgroundColor: "transparent",
-            color: "#D00000",
-          },
-        },
-        {
           skillName: "Visual Studio Code",
           fontAwesomeClassname: "logos:visual-studio-code",
           style: {
             backgroundColor: "transparent",
             color: "#3776AB",
+          },
+        },
+        {
+          skillName: "VR",
+          fontAwesomeClassname: "bi:badge-vr",
+          style: {
+            backgroundColor: "transparent",
+            color: "#D00000",
           },
         },
         {
@@ -128,15 +129,22 @@ const skills = {
             color: "#D00000",
           },
         },
+        {
+          skillName: "MR",
+          fontAwesomeClassname: "mdi:mixed-reality",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
       ],
     },
     {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building resposive website frontend using HTML and React",
-        "⚡ Developing mobile applications using Flutter solo android apps using Dart",
+        "⚡ Building resposive website frontend using HTML, Java Script and React",
         "⚡ Creating application backend in Node, Express & NPM",
+        "⚡ Developing mobile applications using Flutter solo android apps using Dart",
       ],
       softwareSkills: [
         {
@@ -147,8 +155,22 @@ const skills = {
           },
         },
         {
-          skillName: "dotNet",
-          fontAwesomeClassname: "logos:dotnet",
+          skillName: "css",
+          fontAwesomeClassname: "vscode-icons:file-type-css",
+          style: {
+            color: "#1572B6",
+          },
+        },
+        {
+          skillName: "Java Script",
+          fontAwesomeClassname: "vscode-icons:file-type-js-official",
+          style: {
+            color: "#1572B6",
+          },
+        },
+        {
+          skillName: "React",
+          fontAwesomeClassname: "logos:react",
           style: {
             color: "#1572B6",
           },
@@ -167,13 +189,13 @@ const skills = {
             color: "#CB3837",
           },
         },
-        {
-          skillName: "Flutter",
-          fontAwesomeClassname: "simple-icons:flutter",
-          style: {
-            color: "#02569B",
-          },
-        },
+        // {
+        //   skillName: "Flutter",
+        //   fontAwesomeClassname: "simple-icons:flutter",
+        //   style: {
+        //     color: "#02569B",
+        //   },
+        // },
       ],
     },
     {
@@ -261,14 +283,14 @@ const skills = {
 // Education Page
 const competitiveSites = {
   competitiveSites: [
-    {
-      siteName: "HackerRank",
-      iconifyClassname: "simple-icons:hackerrank",
-      style: {
-        color: "#2EC866",
-      },
-      //: "https://www.hackerrank.com/rajkr01",
-    },
+    // {
+    //   siteName: "HackerRank",
+    //   iconifyClassname: "simple-icons:hackerrank",
+    //   style: {
+    //     color: "#2EC866",
+    //   },
+    //   website_link: "https://www.hackerrank.com/rajkr01",
+    // },
   ],
 };
 
