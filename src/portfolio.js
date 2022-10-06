@@ -26,9 +26,9 @@ const greeting = {
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and technical systems to create impact and dedicated to learn, grow and excel as a individual",
   resumeLink:
-    "https://drive.google.com/file/d/1sKZ6a7AxxtVjLGShdq0KvtSITTIoK9Zp/view?usp=sharing",
+    "https://drive.google.com/file/d/1dc5VT5PN1k1pfOgntAIW4uTDhXgCDg1u/view?usp=sharing",
   portfolio_repository:
-    "https://drive.google.com/file/d/1sKZ6a7AxxtVjLGShdq0KvtSITTIoK9Zp/view?usp=sharing",
+    "https://drive.google.com/file/d/1dc5VT5PN1k1pfOgntAIW4uTDhXgCDg1u/view?usp=sharing",
   githubProfile: "https://github.com/rajk7",
 };
 
@@ -87,7 +87,7 @@ const skills = {
       skills: [
         "⚡ Developing highly scalable production ready models for Complex and Dynamic Game Logic and AI game management.",
         "⚡ Experience of working with Hyper Casual Games and Multiplayer Games",
-        "⚡ Made project on XR, VR, AR, MR to experience & interaction with extended reality(XR) environments",
+        "⚡ Learning to make on XR, VR, AR to experience & interaction with extended reality(XR) environments",
       ],
       softwareSkills: [
         {
@@ -202,10 +202,9 @@ const skills = {
       title: "Cloud Infra-Architecture",
       fileName: "CloudInfraImg",
       skills: [
-        "⚡ Experience working on multiple cloud platforms",
+        "⚡ Experience working on multiple php server platforms",
         "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
         "⚡ Deploying game logic on cloud to use on mobile devices",
-        "⚡ Setting up streaming jobs from DB to Server or vice-versa on AWS",
       ],
       softwareSkills: [
         {
@@ -396,8 +395,19 @@ const experience = {
           company: "Techflinch Infotech Private Limited",
           company_url: "https://www.techflinch.com/",
           logo_path: "techflinch.png",
-          duration: "Fab 2020 - PRESENT",
+          duration: "Fab 2020 - March 2022",
           location: "Bengaluru, Karnataka",
+          description:
+            "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
+          color: "#3C065E",
+        },
+        {
+          title: "Unity Developer",
+          company: "NMS Games Private Limited",
+          company_url: "https://www.nmsgames.com/",
+          logo_path: "nms.jpeg",
+          duration: "June 2022 - PRESENT",
+          location: "Varanasi, UP",
           description:
             "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
           color: "#3C065E",
