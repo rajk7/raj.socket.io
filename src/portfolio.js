@@ -396,8 +396,19 @@ const experience = {
           company: "Techflinch Infotech Private Limited",
           company_url: "https://www.techflinch.com/",
           logo_path: "techflinch.png",
-          duration: "Fab 2020 - PRESENT",
+          duration: "Fab 2020 - Feb 2022",
           location: "Bengaluru, Karnataka",
+          description:
+            "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
+          color: "#3C065E",
+        },
+        {
+          title: "Unity Developer",
+          company: "NMS Games Private Limited",
+          company_url: "https://www.nmsgames.com/",
+          logo_path: "techflinch.png",
+          duration: "June 2022 - PRESENT",
+          location: "UP",
           description:
             "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
           color: "#3C065E",
