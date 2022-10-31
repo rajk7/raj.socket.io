@@ -57,6 +57,7 @@ const socialMediaLinks = [
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
+
   /*
   {
     name: "YouTube",
@@ -70,13 +71,19 @@ const socialMediaLinks = [
     link: "https://www.facebook.com/laymanbrother.19/",
     fontAwesomeIcon: "fa-facebook-f", // Reference https://fontawesome.com/icons/facebook-f?style=brands
     backgroundColor: "#1877F2", // Reference https://simpleicons.org/?q=facebook
-  },
+  },*/
   {
     name: "Instagram",
-    link: "https://www.instagram.com/layman_brother/",
+    link: "https://www.instagram.com/raj.kumar7/",
     fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
     backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
-  },*/
+  },
+  {
+    name: "HackerRank",
+    link: "https://www.hackerrank.com/rajkr01",
+    fontAwesomeIcon: "simple-icons:hackerrank", // Reference https://fontawesome.com/icons/google?style=brands
+    backgroundColor: "#2EC866", // Reference https://simpleicons.org/?q=gmail
+  },
 ];
 
 const skills = {
@@ -85,9 +92,10 @@ const skills = {
       title: "Unity Developer",
       fileName: "DataScienceImg",
       skills: [
-        "⚡ Developing highly scalable production ready models for Complex and Dynamic Game Logic and AI game management.",
-        "⚡ Experience of working with Hyper Casual Games and Multiplayer Games",
-        "⚡ Made project on XR, VR, AR, MR to experience & interaction with extended reality(XR) environments",
+        "⚡ Developing highly scalable production ready models for Complex and Dynamic Game Logic.",
+        "⚡ Experience of working with 2D, 3D Games and Hyper Casual Games",
+        "⚡ Experience of working with Multiplayer Games using Photon And Socket.io",
+        "⚡ Made project on AR, VR to experience & interaction with extended reality(XR) environments",
       ],
       softwareSkills: [
         {
@@ -130,74 +138,74 @@ const skills = {
           },
         },
         {
-          skillName: "MR",
-          fontAwesomeClassname: "mdi:mixed-reality",
+          skillName: "C++",
+          fontAwesomeClassname: "logos:c-plusplus",
           style: {
             backgroundColor: "transparent",
           },
         },
       ],
     },
-    {
-      title: "Full Stack Development",
-      fileName: "FullStackImg",
-      skills: [
-        "⚡ Building resposive website frontend using HTML, Java Script and React",
-        "⚡ Creating application backend in Node, Express & NPM",
-        "⚡ Developing mobile applications using Flutter solo android apps using Dart",
-      ],
-      softwareSkills: [
-        {
-          skillName: "HTML5",
-          fontAwesomeClassname: "simple-icons:html5",
-          style: {
-            color: "#E34F26",
-          },
-        },
-        {
-          skillName: "css",
-          fontAwesomeClassname: "vscode-icons:file-type-css",
-          style: {
-            color: "#1572B6",
-          },
-        },
-        {
-          skillName: "Java Script",
-          fontAwesomeClassname: "vscode-icons:file-type-js-official",
-          style: {
-            color: "#1572B6",
-          },
-        },
-        {
-          skillName: "React",
-          fontAwesomeClassname: "logos:react",
-          style: {
-            color: "#1572B6",
-          },
-        },
-        {
-          skillName: "NodeJS",
-          fontAwesomeClassname: "simple-icons:node-dot-js",
-          style: {
-            color: "#339933",
-          },
-        },
-        {
-          skillName: "NPM",
-          fontAwesomeClassname: "simple-icons:npm",
-          style: {
-            color: "#CB3837",
-          },
-        },
-        // {
-        //   skillName: "Flutter",
-        //   fontAwesomeClassname: "simple-icons:flutter",
-        //   style: {
-        //     color: "#02569B",
-        //   },
-        // },
-      ],
-    },
+    // {
+    //   title: "Full Stack Development",
+    //   fileName: "FullStackImg",
+    //   skills: [
+    //     "⚡ Building resposive website frontend using HTML, JavaScript and React",
+    //     "⚡ Creating application backend in Node, Express & NPM",
+    //     "⚡ Developing mobile applications using Flutter solo android apps using Dart",
+    //   ],
+    //   softwareSkills: [
+    //     {
+    //       skillName: "HTML5",
+    //       fontAwesomeClassname: "simple-icons:html5",
+    //       style: {
+    //         color: "#E34F26",
+    //       },
+    //     },
+    //     // {
+    //     //   skillName: "CSS",
+    //     //   fontAwesomeClassname: "vscode-icons:file-type-css",
+    //     //   style: {
+    //     //     color: "#1572B6",
+    //     //   },
+    //     // },
+    //     {
+    //       skillName: "Java Script",
+    //       fontAwesomeClassname: "vscode-icons:file-type-js-official",
+    //       style: {
+    //         color: "#1572B6",
+    //       },
+    //     },
+    //     {
+    //       skillName: "React",
+    //       fontAwesomeClassname: "logos:react",
+    //       style: {
+    //         color: "#1572B6",
+    //       },
+    //     },
+    //     {
+    //       skillName: "NodeJS",
+    //       fontAwesomeClassname: "simple-icons:node-dot-js",
+    //       style: {
+    //         color: "#339933",
+    //       },
+    //     },
+    //     {
+    //       skillName: "NPM",
+    //       fontAwesomeClassname: "simple-icons:npm",
+    //       style: {
+    //         color: "#CB3837",
+    //       },
+    //     },
+    //     // {
+    //     //   skillName: "Flutter",
+    //     //   fontAwesomeClassname: "simple-icons:flutter",
+    //     //   style: {
+    //     //     color: "#02569B",
+    //     //   },
+    //     // },
+    //   ],
+    // },
     {
       title: "Cloud Infra-Architecture",
       fileName: "CloudInfraImg",
@@ -229,11 +237,18 @@ const skills = {
             color: "#336791",
           },
         },
+        // {
+        //   skillName: "MongoDB",
+        //   fontAwesomeClassname: "simple-icons:mongodb",
+        //   style: {
+        //     color: "#47A248",
+        //   },
+        // },
         {
-          skillName: "MongoDB",
-          fontAwesomeClassname: "simple-icons:mongodb",
+          skillName: "PHP",
+          fontAwesomeClassname: "logos:php",
           style: {
-            color: "#47A248",
+            color: "#FF9900",
           },
         },
       ],
@@ -247,13 +262,6 @@ const skills = {
         "⚡ Creating the flow of application functionalities to optimize user experience",
       ],
       softwareSkills: [
-        {
-          skillName: "Adobe XD",
-          fontAwesomeClassname: "simple-icons:adobexd",
-          style: {
-            color: "#FF2BC2",
-          },
-        },
         {
           skillName: "Photoshop",
           fontAwesomeClassname: "vscode-icons:file-type-photoshop",
@@ -273,6 +281,13 @@ const skills = {
           fontAwesomeClassname: "logos:blender",
           style: {
             color: "#000000",
+          },
+        },
+        {
+          skillName: "Adobe XD",
+          fontAwesomeClassname: "simple-icons:adobexd",
+          style: {
+            color: "#FF2BC2",
           },
         },
       ],
@@ -399,16 +414,16 @@ const experience = {
           duration: "Fab 2020 - Feb 2022",
           location: "Bengaluru, Karnataka",
           description:
-            "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
+            "I work here as unity Developer. I have been part several games such as Chess, Ludo, 2048, Stack, Pong, Color Switch etc.",
           color: "#3C065E",
         },
         {
           title: "Unity Developer",
           company: "NMS Games Private Limited",
           company_url: "https://www.nmsgames.com/",
-          logo_path: "techflinch.png",
-          duration: "June 2022 - PRESENT",
-          location: "UP",
+          logo_path: "Nms.png",
+          duration: "June 2022 - Oct 2022",
+          location: "Varanasi UP",
           description:
             "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
           color: "#3C065E",

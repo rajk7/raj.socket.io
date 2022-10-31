@@ -267,6 +267,9 @@ const languages_icons = {
   AR: "ion:logo-apple-ar",
   Flutter: "logos:flutter",
   Dart: "logos:dart",
+  Php: "logos:php",
+  "C++" : "logos:c-plusplus",
+
 
 };
 
