@@ -14,7 +14,7 @@ const seo = {
     title: "Raj Kumar Portfolio",
     type: "website",
     url:
-      "https://drive.google.com/file/d/1XgLAtx0gnQRZNcnKxJ9dg2YMSxbDfVwq/view",
+      "https://drive.google.com/file/d/1KcgXysv6JfoZaNr3gdA4ADSRu0yL4Lf9/view?usp=share_link",
   },
 };
 
@@ -26,9 +26,9 @@ const greeting = {
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and technical systems to create impact and dedicated to learn, grow and excel as a individual",
   resumeLink:
-    "https://drive.google.com/file/d/1sKZ6a7AxxtVjLGShdq0KvtSITTIoK9Zp/view?usp=sharing",
+    "https://drive.google.com/file/d/1KcgXysv6JfoZaNr3gdA4ADSRu0yL4Lf9/view?usp=share_link",
   portfolio_repository:
-    "https://drive.google.com/file/d/1sKZ6a7AxxtVjLGShdq0KvtSITTIoK9Zp/view?usp=sharing",
+    "https://drive.google.com/file/d/1KcgXysv6JfoZaNr3gdA4ADSRu0yL4Lf9/view?usp=share_link",
   githubProfile: "https://github.com/rajk7",
 };
 
@@ -77,12 +77,6 @@ const socialMediaLinks = [
     link: "https://www.instagram.com/raj.kumar7/",
     fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
     backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
-  },
-  {
-    name: "HackerRank",
-    link: "https://www.hackerrank.com/rajkr01",
-    fontAwesomeIcon: "simple-icons:hackerrank", // Reference https://fontawesome.com/icons/google?style=brands
-    backgroundColor: "#2EC866", // Reference https://simpleicons.org/?q=gmail
   },
 ];
 
@@ -137,13 +131,13 @@ const skills = {
             color: "#D00000",
           },
         },
-        {
-          skillName: "C++",
-          fontAwesomeClassname: "logos:c-plusplus",
-          style: {
-            backgroundColor: "transparent",
-          },
-        },
+        // {
+        //   skillName: "C++",
+        //   fontAwesomeClassname: "logos:c-plusplus",
+        //   style: {
+        //     backgroundColor: "transparent",
+        //   },
+        // },
       ],
     },
     // {
@@ -305,14 +299,22 @@ const skills = {
 // Education Page
 const competitiveSites = {
   competitiveSites: [
-    // {
-    //   siteName: "HackerRank",
-    //   iconifyClassname: "simple-icons:hackerrank",
-    //   style: {
-    //     color: "#2EC866",
-    //   },
-    //   website_link: "https://www.hackerrank.com/rajkr01",
-    // },
+    {
+      siteName: "LeetCode",
+      iconifyClassname: "cib:leetcode",
+      style: {
+        color: "#ffa015",
+      },
+      website_link: "https://leetcode.com/rajk7/",
+    },
+    {
+      siteName: "HackerRank",
+      iconifyClassname: "simple-icons:hackerrank",
+      style: {
+        color: "#2EC866",
+      },
+      website_link: "https://www.hackerrank.com/rajkr01",
+    },
   ],
 };
 
@@ -415,13 +417,13 @@ const experience = {
       experiences: [
         {
           title: "Unity Developer",
-          company: "AppCake",
+          company: "AppCake.info",
           company_url: "https://appcake.info/",
           logo_path: "AppCake.png",
           duration: "Nov 2022 - April 2023",
           location: "Hong Kong",
           description:
-          "Experience with Jira, Figma, Rider, Giltleb, Unity and Slack. Strong programming skill in C# and Refactor code. Regularly report and review the status of project and issues to Project Manager and Team Lead and Building IPA app with x-code for iOS (IPhone and IPad)",
+            "Experience with Jira, Figma, Rider, Giltleb, Unity and Slack. Strong programming skill in C# and Refactor code. Regularly report and review the status of project and issues to Project Manager and Team Lead and Building IPA app with x-code for iOS (IPhone and IPad)",
           color: "#3C065E",
         },
         {
@@ -446,7 +448,6 @@ const experience = {
             "I work here as unity Developer. I have been part several games such as Chess, Ludo, 2048, Stack, Pong, Color Switch etc.",
           color: "#3C065E",
         },
-        
       ],
     },
     {
