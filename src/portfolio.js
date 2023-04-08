@@ -305,7 +305,7 @@ const competitiveSites = {
       style: {
         color: "#ffa015",
       },
-      website_link: "https://leetcode.com/rajk7/",
+      profileLink: "https://leetcode.com/rajk7/",
     },
     {
       siteName: "HackerRank",
@@ -313,7 +313,7 @@ const competitiveSites = {
       style: {
         color: "#2EC866",
       },
-      website_link: "https://www.hackerrank.com/rajkr01",
+      profileLink: "https://www.hackerrank.com/rajkr01",
     },
   ],
 };
