@@ -107,15 +107,15 @@ const skills = {
         },
         {
           skillName: "C#",
-          fontAwesomeClassname: "logos-c-sharp",
+          fontAwesomeClassname: "vscode-icons:file-type-csharp2",
           style: {
             backgroundColor: "transparent",
             color: "#D00000",
           },
         },
         {
-          skillName: "Visual Studio Code",
-          fontAwesomeClassname: "logos:visual-studio-code",
+          skillName: "JetBrains Rider",
+          fontAwesomeClassname: "logos:rider",
           style: {
             backgroundColor: "transparent",
             color: "#3776AB",
@@ -264,7 +264,7 @@ const skills = {
       softwareSkills: [
         {
           skillName: "Photoshop",
-          fontAwesomeClassname: "vscode-icons:file-type-photoshop",
+          fontAwesomeClassname: "skill-icons:photoshop",
           style: {
             color: "#F24E1E",
           },
@@ -278,16 +278,23 @@ const skills = {
         },
         {
           skillName: "Blender",
-          fontAwesomeClassname: "logos:blender",
+          fontAwesomeClassname: "skill-icons:blender-light",
           style: {
             color: "#000000",
           },
         },
         {
           skillName: "Adobe XD",
-          fontAwesomeClassname: "simple-icons:adobexd",
+          fontAwesomeClassname: "skill-icons:xd",
           style: {
-            color: "#FF2BC2",
+            color: "#000000",
+          },
+        },
+        {
+          skillName: "Figma",
+          fontAwesomeClassname: "skill-icons:figma-light",
+          style: {
+            color: "#000000",
           },
         },
       ],
@@ -408,13 +415,13 @@ const experience = {
       experiences: [
         {
           title: "Unity Developer",
-          company: "Techflinch Infotech Private Limited",
-          company_url: "https://www.techflinch.com/",
-          logo_path: "techflinch.png",
-          duration: "Fab 2020 - Feb 2022",
-          location: "Bengaluru, Karnataka",
+          company: "AppCake",
+          company_url: "https://appcake.info/",
+          logo_path: "AppCake.png",
+          duration: "Nov 2022 - April 2023",
+          location: "Hong Kong",
           description:
-            "I work here as unity Developer. I have been part several games such as Chess, Ludo, 2048, Stack, Pong, Color Switch etc.",
+          "Experience with Jira, Figma, Rider, Giltleb, Unity and Slack. Strong programming skill in C# and Refactor code. Regularly report and review the status of project and issues to Project Manager and Team Lead and Building IPA app with x-code for iOS (IPhone and IPad)",
           color: "#3C065E",
         },
         {
@@ -425,9 +432,21 @@ const experience = {
           duration: "June 2022 - Oct 2022",
           location: "Varanasi UP",
           description:
-            "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
+            "Workflow in C#, Photon, Git, PHP DataBase. Experience with Git in a multi developer team environment. Build and support tools that improve the workflows of artists, designers, and other programmers",
           color: "#3C065E",
         },
+        {
+          title: "Unity Developer",
+          company: "Techflinch Infotech Private Limited",
+          company_url: "https://www.techflinch.com/",
+          logo_path: "techflinch.png",
+          duration: "Fab 2020 - Feb 2022",
+          location: "Bengaluru, Karnataka",
+          description:
+            "I work here as unity Developer. I have been part several games such as Chess, Ludo, 2048, Stack, Pong, Color Switch etc.",
+          color: "#3C065E",
+        },
+        
       ],
     },
     {
