@@ -14,7 +14,7 @@ const seo = {
     title: "Raj Kumar Portfolio",
     type: "website",
     url:
-      "https://drive.google.com/file/d/1KcgXysv6JfoZaNr3gdA4ADSRu0yL4Lf9/view?usp=share_link",
+      "https://drive.google.com/file/d/1K7jhUrsY6vXT9LLcCEyvI2mOWiL4Mpo6/view?usp=share_link",
   },
 };
 
@@ -26,9 +26,9 @@ const greeting = {
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and technical systems to create impact and dedicated to learn, grow and excel as a individual",
   resumeLink:
-    "https://drive.google.com/file/d/1KcgXysv6JfoZaNr3gdA4ADSRu0yL4Lf9/view?usp=share_link",
+    "https://drive.google.com/file/d/1K7jhUrsY6vXT9LLcCEyvI2mOWiL4Mpo6/view?usp=share_link",
   portfolio_repository:
-    "https://drive.google.com/file/d/1KcgXysv6JfoZaNr3gdA4ADSRu0yL4Lf9/view?usp=share_link",
+    "https://drive.google.com/file/d/1K7jhUrsY6vXT9LLcCEyvI2mOWiL4Mpo6/view?usp=share_link",
   githubProfile: "https://github.com/rajk7",
 };
 
@@ -417,13 +417,13 @@ const experience = {
       experiences: [
         {
           title: "Unity Developer",
-          company: "AppCake.info",
+          company: "AppCake Limited Company",
           company_url: "https://appcake.info/",
           logo_path: "AppCake.png",
           duration: "Nov 2022 - April 2023",
           location: "Hong Kong",
           description:
-            "Experience with Jira, Figma, Rider, Giltleb, Unity and Slack. Strong programming skill in C# and Refactor code. Regularly report and review the status of project and issues to Project Manager and Team Lead and Building IPA app with x-code for iOS (IPhone and IPad)",
+            "Experience with Unity, C# Jira, Figma, Rider, Giltleb and Slack. Strong programming skill in C# and Refactor code. Regularly report and review the status of project and issues to Project Manager and Team Lead and Building IPA app with x-code for iOS (IPhone and IPad)",
           color: "#3C065E",
         },
         {
